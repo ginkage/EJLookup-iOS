@@ -1,0 +1,283 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3BD87A881455DCB200D84B95 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BD87A871455DCB200D84B95 /* UIKit.framework */; };
+		3BD87A8A1455DCB200D84B95 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BD87A891455DCB200D84B95 /* Foundation.framework */; };
+		3BD87A8C1455DCB200D84B95 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BD87A8B1455DCB200D84B95 /* CoreGraphics.framework */; };
+		3BD87A921455DCB200D84B95 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3BD87A901455DCB200D84B95 /* InfoPlist.strings */; };
+		3BD87A951455DCB200D84B95 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BD87A941455DCB200D84B95 /* main.m */; };
+		3BD87A981455DCB200D84B95 /* EJLookupAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BD87A971455DCB200D84B95 /* EJLookupAppDelegate.m */; };
+		3BD87A9B1455DCB200D84B95 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3BD87A991455DCB200D84B95 /* MainWindow.xib */; };
+		3BD87A9E1455DCB200D84B95 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BD87A9D1455DCB200D84B95 /* RootViewController.m */; };
+		3BD87AA11455DCB200D84B95 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3BD87A9F1455DCB200D84B95 /* RootViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3BD87A831455DCB200D84B95 /* EJLookup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EJLookup.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BD87A871455DCB200D84B95 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3BD87A891455DCB200D84B95 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3BD87A8B1455DCB200D84B95 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3BD87A8F1455DCB200D84B95 /* EJLookup-Info.plist */ = {isa = PBXFileReference; path = "EJLookup-Info.plist"; sourceTree = "<group>"; };
+		3BD87A911455DCB200D84B95 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3BD87A931455DCB200D84B95 /* EJLookup-Prefix.pch */ = {isa = PBXFileReference; path = "EJLookup-Prefix.pch"; sourceTree = "<group>"; };
+		3BD87A941455DCB200D84B95 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3BD87A961455DCB200D84B95 /* EJLookupAppDelegate.h */ = {isa = PBXFileReference; path = EJLookupAppDelegate.h; sourceTree = "<group>"; };
+		3BD87A971455DCB200D84B95 /* EJLookupAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EJLookupAppDelegate.m; sourceTree = "<group>"; };
+		3BD87A9A1455DCB200D84B95 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		3BD87A9C1455DCB200D84B95 /* RootViewController.h */ = {isa = PBXFileReference; path = RootViewController.h; sourceTree = "<group>"; };
+		3BD87A9D1455DCB200D84B95 /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		3BD87AA01455DCB200D84B95 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3BD87A801455DCB200D84B95 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BD87A881455DCB200D84B95 /* UIKit.framework in Frameworks */,
+				3BD87A8A1455DCB200D84B95 /* Foundation.framework in Frameworks */,
+				3BD87A8C1455DCB200D84B95 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3BD87A781455DCB200D84B95 = {
+			isa = PBXGroup;
+			children = (
+				3BD87A8D1455DCB200D84B95 /* EJLookup */,
+				3BD87A861455DCB200D84B95 /* Frameworks */,
+				3BD87A841455DCB200D84B95 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3BD87A841455DCB200D84B95 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3BD87A831455DCB200D84B95 /* EJLookup.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3BD87A861455DCB200D84B95 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3BD87A871455DCB200D84B95 /* UIKit.framework */,
+				3BD87A891455DCB200D84B95 /* Foundation.framework */,
+				3BD87A8B1455DCB200D84B95 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3BD87A8D1455DCB200D84B95 /* EJLookup */ = {
+			isa = PBXGroup;
+			children = (
+				3BD87A961455DCB200D84B95 /* EJLookupAppDelegate.h */,
+				3BD87A971455DCB200D84B95 /* EJLookupAppDelegate.m */,
+				3BD87A991455DCB200D84B95 /* MainWindow.xib */,
+				3BD87A9C1455DCB200D84B95 /* RootViewController.h */,
+				3BD87A9D1455DCB200D84B95 /* RootViewController.m */,
+				3BD87A9F1455DCB200D84B95 /* RootViewController.xib */,
+				3BD87A8E1455DCB200D84B95 /* Supporting Files */,
+			);
+			path = EJLookup;
+			sourceTree = "<group>";
+		};
+		3BD87A8E1455DCB200D84B95 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3BD87A8F1455DCB200D84B95 /* EJLookup-Info.plist */,
+				3BD87A901455DCB200D84B95 /* InfoPlist.strings */,
+				3BD87A931455DCB200D84B95 /* EJLookup-Prefix.pch */,
+				3BD87A941455DCB200D84B95 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3BD87A821455DCB200D84B95 /* EJLookup */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BD87AA41455DCB200D84B95 /* Build configuration list for PBXNativeTarget "EJLookup" */;
+			buildPhases = (
+				3BD87A7F1455DCB200D84B95 /* Sources */,
+				3BD87A801455DCB200D84B95 /* Frameworks */,
+				3BD87A811455DCB200D84B95 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EJLookup;
+			productName = EJLookup;
+			productReference = 3BD87A831455DCB200D84B95 /* EJLookup.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3BD87A7A1455DCB200D84B95 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 3BD87A7D1455DCB200D84B95 /* Build configuration list for PBXProject "EJLookup" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3BD87A781455DCB200D84B95;
+			productRefGroup = 3BD87A841455DCB200D84B95 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3BD87A821455DCB200D84B95 /* EJLookup */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3BD87A811455DCB200D84B95 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BD87A921455DCB200D84B95 /* InfoPlist.strings in Resources */,
+				3BD87A9B1455DCB200D84B95 /* MainWindow.xib in Resources */,
+				3BD87AA11455DCB200D84B95 /* RootViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3BD87A7F1455DCB200D84B95 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BD87A951455DCB200D84B95 /* main.m in Sources */,
+				3BD87A981455DCB200D84B95 /* EJLookupAppDelegate.m in Sources */,
+				3BD87A9E1455DCB200D84B95 /* RootViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3BD87A901455DCB200D84B95 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BD87A911455DCB200D84B95 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		3BD87A991455DCB200D84B95 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BD87A9A1455DCB200D84B95 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		3BD87A9F1455DCB200D84B95 /* RootViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BD87AA01455DCB200D84B95 /* en */,
+			);
+			name = RootViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3BD87AA21455DCB200D84B95 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		3BD87AA31455DCB200D84B95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		3BD87AA51455DCB200D84B95 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "EJLookup/EJLookup-Prefix.pch";
+				INFOPLIST_FILE = "EJLookup/EJLookup-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		3BD87AA61455DCB200D84B95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "EJLookup/EJLookup-Prefix.pch";
+				INFOPLIST_FILE = "EJLookup/EJLookup-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3BD87A7D1455DCB200D84B95 /* Build configuration list for PBXProject "EJLookup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BD87AA21455DCB200D84B95 /* Debug */,
+				3BD87AA31455DCB200D84B95 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BD87AA41455DCB200D84B95 /* Build configuration list for PBXNativeTarget "EJLookup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BD87AA51455DCB200D84B95 /* Debug */,
+				3BD87AA61455DCB200D84B95 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3BD87A7A1455DCB200D84B95 /* Project object */;
+}
