@@ -147,11 +147,21 @@ static inline NSAttributedString * NSAttributedStringByScalingFontSize(NSAttribu
 @synthesize textInsets = _textInsets;
 @synthesize verticalAlignment = _verticalAlignment;
 
+- (void) attachTapHandler
+{
+    [self setUserInteractionEnabled:YES];
+    UIGestureRecognizer *touchy = [[UITapGestureRecognizer alloc]
+                                   initWithTarget:self action:@selector(handleTap:)];
+    [self addGestureRecognizer:touchy];
+    [touchy release];
+}
+
 - (id)initWithFrame:(CGRect)frame {
     self = [super initWithFrame:frame];
     if (!self) {
         return nil;
     }
+    [self attachTapHandler];
     
     return [self initCommon];
 }
@@ -343,25 +353,44 @@ static inline NSAttributedString * NSAttributedStringByScalingFontSize(NSAttribu
 - (void)drawFramesetter:(CTFramesetterRef)framesetter textRange:(CFRange)textRange inRect:(CGRect)rect context:(CGContextRef)c {
     CGMutablePathRef path = CGPathCreateMutable();
     
+    CGFloat origin = rect.size.height;
+    rect.size.height = CGFLOAT_MAX;
+
     CGPathAddRect(path, NULL, rect);
     CTFrameRef frame = CTFramesetterCreateFrame(framesetter, textRange, path, NULL);    
-    
-    if (self.numberOfLines == 0) {
+
+/*    if (self.numberOfLines == 0) {
         CTFrameDraw(frame, c);
     } else {
-        CFArrayRef lines = CTFrameGetLines(frame);
-        NSUInteger numberOfLines = MIN(self.numberOfLines, CFArrayGetCount(lines));
+*/        CFArrayRef lines = CTFrameGetLines(frame);
+        NSUInteger numberOfLines = CFArrayGetCount(lines); //MIN(self.numberOfLines, CFArrayGetCount(lines));
 
-        CGPoint lineOrigins[numberOfLines];
-        CTFrameGetLineOrigins(frame, CFRangeMake(0, 0), lineOrigins);
+//        CGPoint lineOrigins[numberOfLines];
+//        CTFrameGetLineOrigins(frame, CFRangeMake(0, 0), lineOrigins);
+    
+        CGPoint lineOrigin = CGPointMake(0, origin); //lineOrigins[0];
 
         for (NSUInteger lineIndex = 0; lineIndex < numberOfLines; lineIndex++) {
-            CGPoint lineOrigin = lineOrigins[lineIndex];
-            CGContextSetTextPosition(c, lineOrigin.x, lineOrigin.y);
+//            CGPoint lineOrigin = lineOrigins[lineIndex];
+
             CTLineRef line = CFArrayGetValueAtIndex(lines, lineIndex);
+
+            CFRange range = CTLineGetStringRange(line);
+            CFRange longestEffective;
+            CTFontRef font = (CTFontRef)CFAttributedStringGetAttribute((CFAttributedStringRef)self.attributedText, range.location, kCTFontAttributeName, &longestEffective);
+            CGFloat size = CTFontGetSize((CTFontRef)font);
+
+//            if (!lineIndex) lineOrigin.y -= floor(size*1.2 + 0.5) - rect.origin.y;
+            if (!lineIndex) lineOrigin.y += rect.origin.y + floor(size*0.2 + 0.5);
+            lineOrigin.y -= floor(size*1.2 + 0.5);
+            CGContextSetTextPosition(c, lineOrigin.x, lineOrigin.y);
+            lineOrigin.y -= floor(size*0.2 + 0.5);
+
+//            lineOrigin.y -= floor(size*1.2 + 0.5) + 3;
+            
             CTLineDraw(line, c);
         }
-    }
+//    }
 
     CFRelease(frame);
     CFRelease(path);
@@ -515,6 +544,8 @@ static inline NSAttributedString * NSAttributedStringByScalingFontSize(NSAttribu
                     [self.delegate attributedLabel:self didSelectLinkWithDate:result.date];
                 }
                 break;
+            default:
+                break;
         }
     } else {
         [self.nextResponder touchesBegan:touches withEvent:event];
@@ -523,14 +554,49 @@ static inline NSAttributedString * NSAttributedStringByScalingFontSize(NSAttribu
 
 #pragma mark - UIView
 
-- (CGSize)sizeThatFits:(CGSize)size {
+- (CGSize)sizeThatFits:(CGSize)size
+{
     if (!self.attributedText) {
         return [super sizeThatFits:size];
     }
     
-    CGSize suggestedSize = CTFramesetterSuggestFrameSizeWithConstraints(self.framesetter, CFRangeMake(0, [self.attributedText length]), NULL, CGSizeMake(size.width, CGFLOAT_MAX), NULL);
+    CGSize suggestedSize = CTFramesetterSuggestFrameSizeWithConstraints(self.framesetter,
+        CFRangeMake(0, [self.attributedText length]), NULL, CGSizeMake(size.width, CGFLOAT_MAX), NULL);
         
     return CGSizeMake(ceilf(suggestedSize.width), ceilf(suggestedSize.height));
+}
+
+#pragma mark Initialization
+
+- (void) awakeFromNib
+{
+    [super awakeFromNib];
+    [self attachTapHandler];
+}
+
+#pragma mark Clipboard
+
+- (void) copy: (id) sender
+{
+    NSLog(@"Copy handler, label: “%@”.", self.text);
+}
+
+- (BOOL) canPerformAction: (SEL) action withSender: (id) sender
+{
+    return (action == @selector(copy:));
+}
+
+- (void) handleTap: (UIGestureRecognizer*) recognizer
+{
+    [self becomeFirstResponder];
+    UIMenuController *menu = [UIMenuController sharedMenuController];
+    [menu setTargetRect:self.frame inView:self.superview];
+    [menu setMenuVisible:YES animated:YES];
+}
+
+- (BOOL) canBecomeFirstResponder
+{
+    return YES;
 }
 
 @end

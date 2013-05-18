@@ -6,53 +6,67 @@
 	<array>
 		<dict>
 			<key>Title</key>
-			<string>Group</string>
+			<string>Основные настройки</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>
 		</dict>
 		<dict>
-			<key>AutocapitalizationType</key>
-			<string>None</string>
-			<key>AutocorrectionType</key>
-			<string>No</string>
-			<key>DefaultValue</key>
-			<string></string>
-			<key>IsSecure</key>
-			<false/>
-			<key>Key</key>
-			<string>name_preference</string>
-			<key>KeyboardType</key>
-			<string>Alphabet</string>
-			<key>Title</key>
-			<string>Name</string>
 			<key>Type</key>
-			<string>PSTextFieldSpecifier</string>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Максимум результатов</string>
+			<key>Key</key>
+			<string>max_results</string>
+			<key>DefaultValue</key>
+			<string>100</string>
+			<key>Titles</key>
+			<array>
+				<string>100</string>
+				<string>250</string>
+				<string>500</string>
+				<string>1000</string>
+			</array>
+			<key>Values</key>
+			<array>
+				<string>100</string>
+				<string>250</string>
+				<string>500</string>
+				<string>1000</string>
+			</array>
 		</dict>
 		<dict>
-			<key>DefaultValue</key>
-			<true/>
-			<key>Key</key>
-			<string>enabled_preference</string>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
 			<key>Title</key>
-			<string>Enabled</string>
+			<string>Максимум подсказок</string>
+			<key>Key</key>
+			<string>max_suggest</string>
+			<key>DefaultValue</key>
+			<string>10</string>
+			<key>Titles</key>
+			<array>
+				<string>10</string>
+				<string>25</string>
+				<string>50</string>
+				<string>100</string>
+			</array>
+			<key>Values</key>
+			<array>
+				<string>10</string>
+				<string>25</string>
+				<string>50</string>
+				<string>100</string>
+			</array>
+		</dict>
+		<dict>
 			<key>Type</key>
 			<string>PSToggleSwitchSpecifier</string>
-		</dict>
-		<dict>
-			<key>DefaultValue</key>
-			<real>0.5</real>
+			<key>Title</key>
+			<string>Подсказки в ромадзи</string>
 			<key>Key</key>
-			<string>slider_preference</string>
-			<key>MaximumValue</key>
-			<integer>1</integer>
-			<key>MaximumValueImage</key>
-			<string></string>
-			<key>MinimumValue</key>
-			<integer>0</integer>
-			<key>MinimumValueImage</key>
-			<string></string>
-			<key>Type</key>
-			<string>PSSliderSpecifier</string>
+			<string>romaji_suggest</string>
+			<key>DefaultValue</key>
+			<true/>
 		</dict>
 	</array>
 	<key>StringsTable</key>

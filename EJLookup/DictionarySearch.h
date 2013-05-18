@@ -10,7 +10,12 @@
 
 
 @interface DictionarySearch : NSOperation {
-    
+    int maxres;
 }
+
+@property(retain) id creator;
+@property(retain) NSString *request;
+
+- (id)initWithText:(NSString *)text delegate:(id)target;
 
 @end

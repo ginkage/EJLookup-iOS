@@ -7,11 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Nihongo.h"
 
 int main(int argc, char *argv[])
 {
     NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
+    [Nihongo initTables];
     int retVal = UIApplicationMain(argc, argv, nil, nil);
+    [Nihongo freeTables];
     [pool release];
     return retVal;
 }

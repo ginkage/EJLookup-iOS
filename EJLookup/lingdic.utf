@@ -1,0 +1,2886 @@
+？？？？？ /lingdic (J-E linguistic term list) last update: 1998-09-17/
+１次方定式 [いちじほうていしき] /linear equation/
+１対１ [１たい１] /one-to-one/
+１対１の写像 [いちたいいたいのしゃぞう] /1-to-1 mapping/
+２次的特性 [にじてきとくせい] /secondary characteristic features/
+２分決定木 [にぶんけっていき] /binary decision tree/
+ＡＴＮ /Augmented Transition Network/
+ＡＴＮプログラム [エーティエンプログラム] /ATN parser/
+ＣＰ削除 [シーピーさくじょ] /CP erasure/
+ＣＹＫ法 [しーわいけいほう] /Coke-Younger-Kasami Method/
+Ｃ統御 [しーとうぎょ] /c-command/
+ＤＲＴ /discourse representation theory/
+ＤＳＰ /discourse segment purpose/
+Ｄ構造 [ディーこうぞう] /D-structure/
+ＧＰＳＧ /generalized phrase structure grammar/GPSG/
+ＨＰＳＧ /Head-driven Phrase Structure Grammar/HPSG/
+Ｈｅｙｔｉｎｇ代数 [ハイティングだいすう] /Heyting algebra/
+ＪＰＳＧ /Japanese phrase structure grammar/JPSG/
+ＬＦＧ /lexical-functional grammar/LFG/
+ＬＩＮＧＯＬ [りんごる] /A Linguistic Oriented Programming Language/
+ＬＲ法 [エルアールほう] /Left-to-right and Right-most Parsing/
+ＭＯＰ [もっぷ] /Memory Organization Packet/
+Ｍ乗 [えむじょう] /m-th power/
+ＳＲＬ /Semantic Representation Language/
+Ｓｔｏｗｅｌｌ構文 [ストウェルこうぶん] /Stowell Construction/
+Ｓ繰り上げ [エス−くりあげ] /Sentence Lifting/ Slifting/
+Ｓ構造 [エスこうぞう] /S-structure/
+ＵＧ /unification grammar/UG/
+Ｖｉｓｓｅｒの一般化 [ヴィサーのいっぱんか] /Visser's Generalization/
+Ｘ’理論 [エックスバーりろん] /X-bar Theory/
+Ｘ１理論 [エックスワンバーりろん] /X1-theory/
+ＸＧ /Extraposition Grammar/
+ｃ統御 [シーとうぎょ] /c-command/
+ｅｑｕｉ構文 [エクィこうぶん] /equi construction/
+ｅｑｕｉ動詞 [エクィどうし] /equi verb/
+ｉｔ外置 [イッツがいち] /it extraposition/
+ｉｔ分裂構文 [イッツぶんれつこうぶん] /it-cleft/
+ｍ統御 [エムとうぎょ] /m-command (GB)/
+ｎ型文法 [えんがたぶんぽう] /type-n grammar (Chomskian hierarchy)/
+ｎ次式 [えんじしき] /polynomial of XXXXXdegree n/
+ｏ制御 [オーせいぎょ] /o-comand/
+ｒ表現 [アールひょうげん] /r-expression/
+ｔｏｕｇｈ移動 [タフいどう] /tough movement/
+ｗｈ疑問文 [ダブルエイチぎもんぶん] /Wh question/
+ｗｈ句 [ダブルエイチく] /wh phrase/
+ｘ座標 [エックスざひょう] /x-coordinate/
+ｘ軸 [エックスじく] /x-axis/
+ｙ座標 [ワイスざひょう] /y-coordinate/
+ｙ軸 [ワイじく] /y-axis/
+あてこすり /sarcasm/
+あらかじめ編集 [あらかじめへんしゅう] /precompiled/
+あらゆる /forall/
+ある /exist/have/
+お世辞 [おせじ] /flattery/
+かき混ぜ [かきまぜ] /scrambling (of complements of V) - JPSG/
+かき混ぜ原理 [かきまぜげんり] /Scrambling Principle/
+かつ [かつ] /(logical) AND/
+きめの細かさ [きめのこまかさ] /grain size/
+こ・そ・あ /here-there-over_there (Japanese proximity markers)/
+ことわり表現 [ことわりひょうげん] /disclaimers/
+だ体 [だたい] /qqq/
+ならば [ならば] /(logical) entailment/
+はじめに /introduction/
+ひな型 [ひながた] /prototype/
+ひらがな [ひらがな] /a hiragana/a cursive kana character/
+ひらがな表記 [ひらがなひょうき] /written in hiragana/
+べた書き [べたがき] /writing without spaces/
+ほとんど /most/
+もの的発想 [ものてきはっそう] /thing oriented conception/
+ゆるく /loosely/
+アクション /action/
+アスペクト /aspect/
+アスペクトのたぐい /aspectual classes/
+アドホック /ad hoc/
+アルゴリズム [アルゴリズム] /algorithm/
+イディオム表現 [イディオムひょうげん] /idiomatic expression/
+イデイオム /idiom/
+イデオム構造 [イデオムこうぞう] /fixed phrase constructions/
+インスタンス /instance/
+インターフェース表現 [インターフェースひょうげん] /interlingual representations/
+イントネーション /intonation/
+ウインド /window/
+ウナギ文 [ウナギぶん] /eel sentence/unagi sentence/referent transfer/
+エレメント /element/
+オーダ [オーダ] /order (big/little O)/
+オートマトン [オートマトン] /automata/
+オートマトン理論 [オートマトンりろん] /Automata Theory/
+オブジェクト /object/
+オブジェクト指向 [オブジェクトしこう] /object-based (programming languages)/
+オントロジー /Ontology/
+カタカナ [かたかな] /a katakana/a square form of kana/
+カテゴリ [カテゴリ] /category (grammatical etc)/
+カ変 [カへん] /qqq/
+クラスタリング [クラスタリング] /clustering/
+ク活用 [クかつよう] /qqq/
+グラフ [グラフ] /graph/
+コーパス [こーばす] /corpus/corpora/
+コソアドの体系 [コソアドのたいけい] /qqq/
+コプラ /copula/
+コルーチン /co-routine/
+コントローラ /controller/
+コントロール /control/
+コントロールするもの /controller/
+コントロール動詞の補語 [コントロールどうしのほご] /control complement/
+コントロール理論 [コントロールりろん] /control theory (GB)/
+コンパイラ [コンパイラ] /compiler (of C, etc)/
+コンパクト性定理 [コンパクトせいていり] /Compactness Theorem/
+コンピュータ・ビジョン /computer vision/
+ゴール /goal/
+サイバネティックス /cybernetics/
+サ行 [サぎょう] /s-column (of hiragana)/
+サ行変格活用 [サぎょうへんかくかつよう] /qqq/
+サ変動詞 [サへんどうし] /nominal verb/verbal noun/
+システミック文法 [システミックぶんぽう] /systemic grammar/
+システム辞書 /System Dictionary/
+シソーラス [シソーラス] /thesaurus/
+シナリオ /scenario/
+スーツケース型 [スーツケースかた] /a suite case type/
+スカラー [スカラー] /scalar/
+スキーマ /schema/
+スクリプト /script (AI)/
+スクリプト・ヘッダ− /script header/
+スコーレム化 [スコーレムか] /skolemisation/
+スタイル離接詞 [スタイルりせつし] /style disjunct/
+ストレス /stress/
+スロット /slot/
+スロット埋込み [スロットうめこみ] /slot filling/
+ゼロ照応 [ゼロしょうおう] /zero anaphora/
+ゼロ代名詞 [ゼロだいめいし] /zero pronoun/
+ター [ター] /tar (UNIX tool)/
+タイプ /type/
+タイプ包摂 [タイプほうせつ] /type subsumption/
+タイプ包摂グラフ [タイプほうせつグラフ] /type subsumption graph/
+タリ活用 [タリかつよう] /qqq/
+タ形 [タけい] /qqq/
+ダナ活用 [ダナかつよう] /qqq/
+ダミー /dummy/
+ダ文パターン対辞書 [ダぶんパターンついじしょ] /copular pattern transfer dictionary/
+チャート /chart/
+チャート法 [チャートほう] /chart parsing/chart parser/
+チューリング /Turing/
+チョムスキー標準形 [チョムスキーひょうじゅんけい] /Chomsky regular form (grammar)/
+テーマ /theme/
+テキスト構造知識 [テキストこうぞうちしき] /text structure knowledge/
+テクスト /text/
+テクスト機能 [テクストきのう] /text function/
+テクスト的機能 [テクストてききのう] /textual function/
+テフ /TeX (document preparation system)/
+テリシティ /telicity/
+テンプレート /template/
+テ形 [テけい] /-te form/
+データタイプ理論 [データタイプりろん] /data type theory/
+データ駆動 [データくどう] /data driven/
+データ検索 [データけんさく] /data retrieval/
+データ構造 [データこうぞう] /data structure/
+データ探索 [データたんさく] /data search/
+デーモン [デーモン] /daemon (UNIX, etc)/
+デフォールト値 [デフォールトち] /default value/
+デフォルト [デフォルト] /default/
+デフォルト値 [デフォルトち] /default/
+デフォルト論理 [デフォルトろんり] /default logic/
+デモン /demon/
+トークン /token/
+トークン的同値 [トークンてきどうち] /token identity/
+トートロジー [トートロジー] /tautology/
+トップダウン /top-down/
+トップダウン型アルゴリズム [トップダウンがたアルゴリズム] /top-down parsing/
+トップダウン法 [トップダウンほう] /top-down method/
+トピック /topic/
+トランスレータ [トランスレータ] /translator (of C, etc)/
+ネットワーク分割 [ネットワークぶんかつ] /network partitioning/
+ノード /(tree) node/
+ハイブリッド型翻訳方式 [ハイブリッドがたほんやくほうしき] /Hybrid Translation/
+ハッシング /hashing/
+バイパス /bypass/
+バックトラック [ばっくとらっく] /backtrack (Prolog, etc)/
+パーサ /parser/
+パーザ [パーザ] /parser/
+パースネット /parse net/
+パターン照合 [パターンしょうごう] /pattern matching/
+パターン対辞書 [パターンついじしょ] /pattern transfer dictionary/
+パターン認識 [パターンにんしき] /pattern recognition/
+パターン翻訳 [パターンほんやく] /Pattern Translation/
+パラダイム [パラダイム] /paradigm/
+パラフレーズ [パラフレーズ] /paraphrase/
+パラプレート /paraplate/
+パラメータ [パラメータ] /parameter/
+パラメータの /parametric/
+パラメータ化された事態 [パラメータかされたじたい] /parametrized state of affairs/psoa/
+パラメタ [パラメタ] /parameter/
+パラレルコーパス [パラレルコーパス] /Parallel Corpus/
+ヒューリスティクス [ヒューリスティクス] /heuristic(s)/
+ヒューリスティックス /heuristics/
+ヒューリステック /heuristic/
+ビーム探索法 [ビームたんさくほう] /beam search/
+ビーム幅 [ビームはば] /beam width/
+フィラー /filler/
+フォーミュラ /formula/
+フレーゲの原理 [フレーゲのげんり] /Fregean Principle/
+フレーズ辞書 [フレーズじしょ] /phrase dictionary/
+フレーム /frame (Minsky - AI)/
+フレームワーク /framework/
+フレーム問題 [フレームもんだい] /frame problem/
+フロント・エンド /front end/
+ブール代数 [ブールだいすう] /Boolean algebra/
+プラーグ派 [プラーグは] /the Prague school (of Linguistics)/
+プラス /plus/benefit/
+プラン /plan/
+プラン・ボックス /plan box/
+プリエディタ /pre-editor/
+プログラミング言語 [プログラミングげんご] /programming language/
+プログラム言語 [プログラムげんご] /programming language/
+プロダクション /production/
+プロダクション・システム /production system/
+プロダクション規則 [プロダクションきせい] /production rule/
+ヘッド [ヘッド] /head (of Prolog clause)/
+ベア・テンプレート /bare template/
+ホーン節 [ホーンせつ] /Horn clause/
+ホーン説 [ホーンせつ] /Horn clause/
+ボディ [ボディ] /body (of Prolog clause)/
+ボトムアップ /bottom-up/
+ボトムアップ型アルゴリズム [ボトムアップがたアルゴリズム] /Bottom-Up Parsing/
+ボトムアップ法 [ボトムアップほう] /bottom-up/
+ボトルネック [ボトルネック] /bottleneck/
+ポストエディタ /post-editor/
+マーカ [マーカ] /marker/
+マーカー /marker/
+マイナス /cost/
+マクロスキーマ /macro schema/
+マクロストリーム /macro stream/
+ミドルアウト法 [ミドルアウトほう] /middle-out strategy/
+ミニマックス原理 [ミニマックスげんり] /the mini-max principle/
+メタシステム /meta-system/
+メタレベル推論 [メタレベルすいろん] /meta-level reasoning/
+メタ規則 [メタきそく] /metarule/
+メタ知識 [メタちしき] /meta-knowledge/
+メモリ [メモリ] /memory/
+モーダル情報 [モーダルじょうほう] /modal information/modality/
+モジュール化 [モジュールか] /modeling/
+モジュール型 [モジュールがた] /modular/
+モジュール性 [モジュールせい] /modularity/
+モダリティ [モダリティ] /modality/
+モダリテイ /modality/
+モデル /(mathematical, logic) model/
+モドゥス /modus/
+モンテギュー文法 [モンテギューぶんぽう] /Montague grammar/
+ユニファイ /unify (vs)/
+ユニフィケーション /unification/
+ラテフ [ラテフ] /LaTeX
+ラムダ抽象化 [ラムダちゅうしょうか] /lambda abstraction/
+ラング /langue/
+ランダム文章生成 [ランダムぶんしょうせいせい] /random text generation/
+ランプ化 [ランプか] /lumping/
+リクエスト /request/
+リテラル [リテラル] /literal (logic)/
+リンク化 [リンクか] /linking/
+ループ [ループ] /a loop (in a program etc)/
+レジスタ /register/
+ロバスト性 [ロバストせい] /Robustness/
+ロバ文 [ロバぶん] /donkey sentence/
+ヴォイス /voice/
+α移動 [アルファいどう] /alpha movement (GB)/Move alpha/
+θ位置 [アルファいち] /theta-position/
+θ標準 [アルファひょうじゅん] /theta-Criterion/
+θ役割 [アルファやくわり] /theta-role/
+θ理論 [シタりろん] /theta theory/
+λ演算子 [ラムダえんざんし] /lambda operator/
+圧縮 [あっしゅく] /compression (vs)/
+安定性 [あんていせい] /stability/
+暗号化 [あんごうか] /encryption/
+暗転 [あんてん] /loss/
+暗黙の主語 [あんもくのしゅご] /understood subject/
+暗黙値 [あんもくち] /default value/
+暗黙的 [あんもくてき] /implicit/
+位相幾何学 [いそうきかがく] /(mathematical) topology/
+位置 [いち] /Location/
+位置格の倒置 [いちかくのとうち] /locative inversion/
+位置格代名詞 [いちかくだいめいし] /locative pronoun/
+依存 [いぞん] /depend (vs)/dependence/dependency/
+依存に関する情報 [いぞんにかんするじょうほう] /dependency information/
+依存関係 [いぞんかんけい] /dependency relation/dependency/
+依存関係文法 [いぞんかんけいぶんぽう] /dependency grammar/
+依存関係木構造 [いぞんかんけいきこうぞう] /???syntactic dependency tree/
+依存構造 [いぞんこうぞう] /dependency structure/
+依存文法 [いぞんぶんぽう] /Dependency Grammar/
+依存要素 [いぞんようそ] /dependant/
+依頼 [いらい] /to request (vs)/requesting/
+威嚇 [いかく] /intimidating (vs)/threat(vs)/
+意義の同一様 [いぎのどういつよう] /sense identity/
+意図 [いと] /intention/intend (vs)/
+意味 [いみ] /semantics/mean (vs)/
+意味する [いみする] /designate/
+意味するもの [いみするもの] /denotation/
+意味と文脈 [いみとぶんみゃく] /meaning and context/
+意味の関係理論 [いみのかんけいりろん] /relational theory of meaning/
+意味ネット [いみネット] /semantic net/
+意味ネットワーク [いみネットワーク] /semantic net/semantic network/
+意味マーカ [いみマーカ] /semantic marker/
+意味解釈 [いみかいしゃく] /semantic interpretation/
+意味解釈機能 [いみかいしゃくきのう] /semantic interpretation function/SIF/
+意味解釈規則 [いみかいしゃくきそく] /semantic interpretation rule/
+意味解析 [いみかいせき] /semantic analysis/meaning analysis/
+意味解析型翻訳 [いみかいせきがたほんやく] /Semantic Analysis based Translation/
+意味概念 [いみがいねん] /semantic concept/
+意味元素 [いみげんそ] /semantic primitive/
+意味原理 [いみげんり] /Semantic Principle/
+意味公式 [いみこうしき] /semantic formula/
+意味構造 [いみこうぞう] /semantic structure/
+意味行為 [いみこうい] /rhetic act/
+意味辞書 [いみじしょ] /lexico-semantic dictionary/semantic dictionary/
+意味素 [いみそ] /morpheme/semantic primitive/
+意味素姓 [いみそせい] /semantic feature/
+意味属性 [いみぞくせい] /semantic attribute/
+意味的な [いみてきな] /semantic/
+意味的な役割 [いみてきなやくわり] /semantic role/
+意味的に制限された [いみてきにせいげんされた] /semantically restricted/
+意味的貢献の一貫性 [いみてきこうけんのいっかんせい] /constancy of semantic contribution/
+意味的選択制限 [いみてきせんたくせいげん] /semantic selection restriction/
+意味的属性 [いみてきぞくせい] /Semantic Attribute/
+意味的妥当性 [いみてきだとうせい] /semantic compatibility/
+意味的密度 [いみてきみつど] /semantic density/
+意味的約束 [いみてきやくそく] /Semantic Rule/
+意味的用法 [いみてきようほう] /Semantic Usage/
+意味的曖昧性 [いみてきあいまいせい] /semantic ambiguity/
+意味内容 [いみないよう] /semantic content/
+意味内容の語順依存性 [いみないようのごじゅんいぞんせい] /order-dependence of content/
+意味標識 [いみひょうしき] /Semantic Marker/
+意味表示 [いみひょうじ] /semantic representation/
+意味部門 [いみぶもん] /semantic component/
+意味文法 [いみぶんぽう] /semantic grammar/
+意味母型 [いみぼけい] /semantic template/
+意味役割 [いみやくわり] /semantic role/
+意味理解 [いみりかい] /meaning understanding/
+意味理解型翻訳 [いみりかいがたほんやく] /Semantic Comprehension based Translation/
+意味論 [いみろん] /semantics/
+意訳 [いやく] /free translation/
+意欲 [いよく] /willingness/
+慰藉 [いしゃ] /consoling (vs)/
+異音 [いおん] /allophone/
+異形態 [いけいたい] /allomorph/
+移動 [いどう] /movement/shift/
+遺伝 [いでん] /inheritance (of knowledge etc)/
+一階述語論理 [いっかいじゅつごろんり] /first-order predicate logic/
+一慣性 [いっかんせい] /coherence/
+一時の出来事 [いちじのできごと] /???event/
+一次関数 [いちじかんすう] /linear function/
+一人称 [いちにんしょう] /first person (grammar)/
+一致 [いっち] /agreement/concord/
+一致現象 [いっちげんしょう] /agreement phenomena/
+一般化された会話の含意 [いっぱんかされたかいわのがんい] /generalized conversational implicature/
+一般化句構造文法 [いっぱんかくこうぞうぶんぽう] /generalized phrase structure grammar/
+一般句構造文法 [いっぱんくこうぞうぶんぽう] /GPSG/Generalized Phrase Structure Grammar/
+一般公理 [いっぱんこうり] /Supermaxim/
+一般構文処理プログラム [いっぱんこうぶんしょりプログラム] /General Syntactic Processor/GSP/
+一般深層格 [いっぱんしんそうかく] /universal deep case/
+一般的個別性 [いっぱんてきこべつせい] /a general individuality/
+一般複合名詞 [いっぱんふくごうめいし] /a general compound word/
+一分一格の原理 [いちぶんいちかくのげんり] /one clause - one case principle (case grammar)/
+一様評点法 [いちようひょうてんほう] /uniform scoring policy/
+一例 [いちれい] /instance/
+因果関係の連鎖 [いんがかんけいのれんさ] /causal chain/
+因果律 [いんがりつ] /causality/law of causality (predicate logic)/
+因数分解 [いんすうぶんかい] /factorisation (of polynomial)/
+引き算 [ひきざん] /subtraction/
+引数 [いんすう] /argument/
+引数範疇 [いんすうはんちゅう] /argument category/
+引用 [いんよう] /quotation/
+引用の助詞 [いんようのじょし] /quotational postposition/
+引用記号 [いんようきごう] /quotation mark/
+引用句 [いんようく] /quotational phrase/
+引用節 [いんようせつ] /quotational clause/
+引用相当述節 [いんようそうとうじゅつせつ] /quotation equivalent/
+引用文 [いんようぶん] /quoted sentence/
+隠れマルコフモデル [かくれマルコフモデル] /Hidden Markov Model/
+隠喩 [いんゆ] /metaphor/
+隠喩的な [いんゆてきな] /metaphorical/
+韻律 [いんりつ] /prosody/prosodic/
+韻律論 [いんりつろん] /Prosodics/
+右屋根制約 [みぎやねせいやく] /Right Roof Constraint/
+右節点繰り上げ [みぎせってんくりあげ] /Right Node Raising/
+右辺 [うへん] /right-hand side/RHS/
+迂言 [うげん] /periphrasis/cirumlocution/
+迂言的遂行表現 [うげんてきすいこうひょうげん] /???hedged performatives/
+迂言的表現 [うげんてきひょうげん] /???hedges/
+運算 [うんざん] /(arithmetic) calculation/
+運用文法 [うんようぶんぽう] /???semantic or performance grammar/pragmatics/
+運用論 [うんようろん] /Pragmatics/
+映像 [えいぞう] /(dynamic) image/
+英数字 [えいすうじ] /alphanumeric (characters)/
+演算 [えんざん] /(arithmetic) calculation/
+演算子 [えんざんし] /(mathematical / logical) operator/
+演繹 [えんえき] /deduction/
+演繹的 [えんえきてき] /deductive/
+遠い位置にある　 [とおいいちにある] /dislocated ???/
+応答 [おうとう] /response/respond (vs)/
+応答フレーム [おうとうフレーム] /response frame/
+応答記号 [おうとうきごう] /response signal/
+応用言語 [おうようげんご] /application language/
+横型 [よこがた] /breadth-first/
+横型探索 [よこがたたんさく] /breadth-first search/
+横方向の [よこほうこうの] /horizontal/
+音 [おん] /phone/
+音韻 [おんいんけいしき] /phonetic form/
+音韻学 [おんいんがく] /phonemics/
+音韻規則 [おんいんきそく] /Phonological Rule/
+音韻形式 [おんいんけいしき] /phonological form/PF/
+音韻的な [おんいんてきな] /phonological/
+音韻表示 [おんいんひょうじ] /phonological representation/
+音韻部門 [おんいんぶもん] /phonological component/Phonologic Component/
+音韻論 [おんいんろん] /phonology/
+音声学 [おんせいがく] /phonetics/
+音声学的に空の [おんせいがくてきにくうの] /phonetically null/
+音声言語 [おんせいげんご] /Phonetic Language/
+音声行為 [おんせいこうい] /phonetic act/
+音声表示 [おんせいひょうじ] /Phonological Representation/
+音声理解 [おんせいりかい] /speech understanding/
+音声理解システム [おんせいりかいシステム] /speech understanding system/
+音節 [おんせつ] /syllable/
+音素 [おんそ] /phoneme/
+音素論 [おんそろん] /Phonemics/
+音調曲線 [おんちょうきょくせん] /intonation contour/
+音調単位 [おんちょうたんい] /tone unit/
+音読み [おんよみ] /Sino-Japanese reading/
+音便 [おんびん] /sound change/
+下に凸 [したにとつ] /convex/
+下位 [かい] /subordinate/
+下位概念語 [かいがいねんご] /hyponym/
+下位範疇 [かいはんちゅう] /SUBCAT/
+下位範疇化 [かいはんちゅうか] /subcategorization/
+下位範疇化する [かいはんちゅうかする] /subcategorize for/
+下位範疇化制限 [かいはんちゅうかせいげん] /subcategorization restriction/
+下位範疇化素性 [かいはんちゅうかそせい] /subcategorisation feature/
+下位範疇化素性の原理 [かいはんちゅうかそせいのげんり] /subcat feature principle (PSG)/
+下位範疇化理論 [かいはんちゅうかりろん] /subcategorization theory/
+下位目標 [かいもくひょう] /subgoal/
+下位類 [かいるい] /subsort/
+下一段活用 [しもいちだんかつよう] /qqq/
+下降型 [かこうがた] /top-down/
+仮定 [かてい] /supposition/
+仮定形 [かていけい] /fifth base/conditional base/subjunctive base/
+仮定的な約束 [かていてきなやくそく] /hypothetical promise/
+仮定法 [かていほう] /subjunctive/
+仮文節境界 [かりぶんせつきょうかい] /Provisional Bunsetsu Boundary/
+可換 [かかん] /commutative/
+可逆な [かぎゃくな] /reversible/
+可逆性 [かぎゃくせい] /reversability/
+可算 [かさん] /countable (infinite, etc)/
+可算決定詞 [かさんけっていし] /denumerator/
+可算性 [かさんせい] /countability/
+可算名詞 [かさんめいし] /countable noun/
+可視化条件 [かしかじょうけん] /visibility condition/
+可能世界 [かのうせかい] /possible world (logic)/
+可能世界モデル [かのうせかいモデル] /possible world model/
+可能世界意味論 [かのうせかいいみろん] /possible world semantics/
+可能性 [かのうせい] /possibility/
+可能性のある事実 [かのうせいのあるじじつ] /potential facts/
+可能動詞 [かのうどうし] /???potentative verb/
+可能文 [かのうぶん] /potential clause/
+可付番無限 [かふばんむげん] /countably infinite/
+可変な項数 [かへんなこうすう] /variable arity/
+可変領域配列 [かへんりょういきはいれつ] /variable domain array/
+過去完了 [かこかんりょう] /past perfect/
+過去完了進行 [かこかんりょうしんこう] /past perfect progressive/
+過去形 [かこけい] /past form/past tense/
+過去時 [かこじ] /past time/
+過去時制 [かこじせい] /past tense/
+過去進行 [かこしんこう] /past progressive/
+過去分詞 [かこぶんし] /past participle (-ed)/
+過去分詞規則 [かこぶんしきそく] /past-participle rule/
+過程的構造 [かていてきこうぞう] /process structure/
+過程付接詞 [かていふせつし] /process adjunct/
+画像 [がぞう] /(static) image/
+画像理解 [がぞうりかい] /vision (CS)/
+会話 [かいわ] /conversation/
+会話の含意 [かいわのがんい] /conversational implicature/
+会話の公理 [かいわのこうり] /conversational maxims/
+会話の履歴 [かいわのりれき] /conversation history/
+会話セグメント [かいわセグメント] /discourse segment/
+会話ブロック [かいわブロック] /discourse block/
+会話公準 [かいわこうじゅん] /conversational postulates/
+解決 [かいけつ] /resolution/
+解釈 [かいしゃく] /interpretation/
+解釈される文 [かいしゃくされるぶん] /statement/
+解釈意味論 [かいしゃくいみろん] /interpretive semantics/
+解釈的機能 [かいしゃくてききのう] /interpretive capacity/
+解消 [かいしょう] /resolution/
+解析 [かいせき] /parse/parsing/analysis/
+解析技術 [かいせきぎじゅつ] /parsing technique/
+解析多義削減効果 [かいせきたぎさくげんこうか] /effect of reducing the ambiguity in analysis/
+解析木 [かいせきき] /analysis tree/
+解析用辞書 [かいせきようじしょ] /morpho-syntactic dictionary/parsing dictionary/
+解放 [かいほう] /discharge/
+回路 [かいろ] /circuit/
+改訂拡大標準理論 [かいていかくだいひょうじゅんりろん] /REST/Revised Extended Standard Theory/
+絵画名詞 [かいがめいし] /picture noun/
+開始記号 [かいしきごう] /start symbol (S)/beginning symbol/
+開放条件 [かいほうじょうけん] /open condition/
+階乗 [かいじょう] /factorial (!)/
+階層 [かいそう] /hierarchy/level/
+階層性 [かいそうせい] /hierarchicality/
+階層的な [かいそうてきな] /configurational/hierarichical/
+外延 [がいえん] /denotation/extention/
+外延的 [がいえんてき] /extensional/
+外延的意味 [がいえんてきいみ] /denotational semantics/
+外界照応 [がいかいしょうおう] /exophora/
+外置 [がいち] /extraposition//extrapose (vs)/
+外的θ役割 [がいてきアルファやくわり] /external theta-role/
+外部指示 [がいぶしじ] /exophora/
+外部否定 [がいぶひてい] /external negation/
+外来語 [がいらいご] /a loan word/an adopted word/
+外連声 [がいれんじょう] /external sandhi/
+概念 [がいねん] /concept/
+概念の原則 [がいねんのげんそく] /single-concept principle/
+概念依存 [がいねんいぞん] /conceptual dependency/
+概念依存関係 [がいねんいぞんかんけい] /conceptual dependency/
+概念依存関係ネットワーク [がいねんいぞんかんけいネットワーク] /???conceptual dependency network/
+概念依存関係理論 [がいねんいぞんかんけいりろん] /???conceptual dependency theory/CD/
+概念依存論理 [がいねんいぞんろんり] /conceptual dependency theory/
+概念化 [がいねんか] /conceptualization/
+概念解析プログラム [がいねんかいせきプログラム] /???conceptual analyzer/
+概念辞書 [がいねんじしょ] /Concept Dictionary/
+概念的機能 [がいねんてききのう] /ideational function/
+蓋然推論 [がいぜんすいろん] /inexact reasoning/
+拡大標準理論 [かくだいひょうじゅんりろん] /EST/Extended Standard Theory/
+拡張 [かくちょう] /expansion/extension/
+拡張する [かくちょうする] /extend/
+拡張推論モード [かくちょうすいろんモード] /extended inference mode/
+拡張遷移ネットワーク文法 [かくちょうせんいネットワークぶんぽう] /ATNG (Augmented Transition Network Grammar)/
+拡張遷移網 [かくちょうせんいもう] /Augmented Transition Network/ATN/
+拡張遷移網文法 [かくちょうせんいもうぶんぽう] /augmented transition net grammar/ATN/
+格 [かく] /(syntactic) case/
+格の割り当て [かくのわりあて] /case assignment/case marking/
+格フィルタ [かくフィルタ] /case filter/
+格フレーム [かくフレーム] /case frame/
+格下げ [かくさげ] /downgrading/
+格関係的な構造 [かくかんけいてきなこうぞう] /???transistive structure/
+格言的な命令文 [かくげんてきなめいれいぶん] /aphoristic imperative/
+格助詞 [かくじょし] /case-marking particle/case marker/case particle/
+格助詞相当語 [かくじょしそうとうご] /case particle equivalent/pseudo-particle/
+格前置詞 [かくぜんちし] /case preposition/
+格標識 [かくひょうしき] /case marker/case-marker/case-markers/
+格文法 [かくぶんぽう] /case grammar/
+格役割 [かくやくわり] /case role/
+格要素 [かくようそ] /case element/
+格理論 [かくりろん] /case theory (GB)/
+核範疇 [かくはんちゅう] /core category (PSG)/
+核文 [かくぶん] /kernel sentence/
+確定指示 [かくていしじ] /definite reference/
+確率 [かくりつ] /probability/
+角括弧 [かどかっこ] /square brackets ('[',']')/
+学校文法 [がっこうぶんぽう] /school grammar/
+学習 [がくしゅう] /learning/
+学習機械 [がくしゅうきかい] /learning machine/
+掛け算 [かけざん] /multiplication/
+割り当て [わりあて] /assignment/
+割算 [わりざん] /(arithmetic) division/
+括弧 [かっこ] /case arc/
+活性化 [かっせいか] /activation/
+活性弧 [かっせいこ] /active edge/
+活動詞 [かつどうし] /modal verb/
+活用 [かつよう] /conjugation/conjugate (vs)/inflection/
+活用の型 [かつようのかた] /qqq/
+活用の形式 [かつようのけいしき] /qqq/
+活用形 [かつようけい] /conjugational form/inflectional form/inflections/
+活用語 [かつようご] /conjugational word/
+活用語尾 [かつようごび] /conjugative suffix/inflexion/
+活用接尾辞 [かつようせつびじ] /conjugational stem/
+活用表 [かつようひょう] /conjugation charts/
+活用変化 [かつようへんか] /conjugation/
+冠詞 [かんし] /article (a/the)/quantifier/
+勧告 [かんこく] /recommending/recommend (vs)/
+勧誘 [ゆうわく] /invitation/
+勧誘・意志形 [ゆうわく・いしけい] /qqq/
+完遂 [かんすい] /achieve/
+完全 [かんぜん] /complete/
+完全自動高品質翻訳 [かんぜんじどうこうひんしつほんやく] /fully automatic high quality translation/FAHQT/
+完全自動翻訳 [かんぜんじどうほんやく] /fully automatic high quality translation/FAHQT/
+完全性 [かんぜんせい] /completeness/
+完全性定理 [かんぜんせいていり] /Completeness Theorem/
+完了 [かんりょう] /perfective/
+完了形 [かんりょうけい] /perfect tense/
+完了時制 [かんりょうじせい] /perfect tense/
+完了直後の状態 [かんりょうちょくごのじょうたい] /state just after completion/
+寛容の公理 [かんようのこうり] /the maxim of Generosity/
+感謝 [かんしゃ] /thanking (vs)/
+感情形容詞 [かんじょうけいようし] /emotive adjectives/
+感嘆 [かんたん] /exclamatory mood/Exclamation/
+感嘆詞 [かんたんし] /interjection/
+感嘆符 [かんたんふ] /exclamation mark/
+感嘆文 [かんたんぶん] /exclamatory sentence/Exclamative/
+感度 [かんど] /sensitivity/
+感動詞 [かんどうし] /an interjection/
+慣用句 [かんようく] /idiom/idiomatic phrase/
+慣用語 [かんようご] /idiom/
+慣用語句辞書 [かんようごくじしょ] /idioglossary/idiom dictionary/
+慣用表現辞書 [かんようひょうげんじしょ] /idiomatic expression transfer dictionary/
+慣例的含意 [かんれいてきがんい] /conventional implicature/
+換喩 [かんゆ] /metonymy/
+漢語系の語 [かんごけいのご] /words of Chinese origin/
+漢字 [かんじ] /a chinese character/kanji/
+漢字表記 [かんじひょうき] /representation in Chinese characters/
+漢数字 [かんすうじ] /chinese numerals/
+緩和 [かんわ] /mitigation/
+緩和詞 [かんわし] /downtoner/
+観察 [かんさつ] /observation/
+観察的妥当性 [かんさつせいだとうせい] /observational adequacy (linguistics)/
+観念構成機能 [かんねんこうせいきのう] /ideational function/
+観念的自己分裂 [かんねんてきじこぶんれつ] /ideological self disunion/
+還元 [かんげん] /resolve (in logic)/
+間接疑問 [かんせつぎもん] /indirect question/
+間接結合 [かんせつけつごう] /indirect linking/
+間接的な談話 [かんせつてきなだんわ] /indirect discourse/
+間接的照応 [かんせつてきしょうおう] /indirect anaphora/
+間接翻訳 [かんせつほんやく] /indirect translation (use intermediate language(s))/
+間接目的語 [かんせつもくてきご] /indirect object/O$^i$/
+間接話法 [かんせつわほう] /indirect narration/indirect speech/
+間投詞 [かんとうし] /interjection/
+間投助詞 [かんとうじょし] /interjective marker/
+間投表現 [かんとうひょうげん] /interjective expression/
+関係 [かんけい] /relation/
+関係の公理 [かんけいのこうり] /the maxim of Relevance/
+関係概念 [かんけいがいねん] /Relational Concept/
+関係詞 [かんけいし] /relative/relative-word/
+関係詞節 [かんけいしせつ] /relative phrase/relative clause/
+関係節 [かんけいせつ] /relative clause/
+関係節の依存関係 [かんけいせつのいぞんかんけい] /relative dependency/
+関係代名詞 [かんけいだいめいし] /relative pronoun/
+関係的 [かんけいてき] /relational/
+関係副詞 [かんけいふくし] /relative adverb/
+関係文法 [かんけいぶんぽう] /relational grammar/
+関心の的 [かんしんのまと] /focus of attention/
+関数 [かんすう] /function/
+関数記号 [かんすうきごう] /function symbols (logic)/
+関数型 [かんすうがた] /functional (programming)/
+関数型プログラム言語 [かんすうがたプログラムげんご] /functional programming language/
+関数合成 [かんすうごうせい] /functional composition/
+関数的に [かんすうてきに] /framework/
+関数的に [かんすうてきに] /functional/
+関数的に依存する値 [かんすうてきにいぞんするあたい] /functionally dependent values/
+関数適用 [かんすうてきよう] /functional application /
+関数範疇 [かんすうはんちゅう] /functor category/
+関連性 [かんれんせい] /relevance/
+含意 [がんい] /implication/implicature/pragmatic entailment/
+含意される内容 [がんいされるないよう] /what is implicated/
+頑健性 [がんけんせい] /robustness/
+願望 [がんぼう] /wish/
+願望文 [がんぼうぶん] /desiderative clause/
+企画書 [きかくしょ] /plan/
+基数詞 [きすうし] /cardinal number/
+基底句構造標識 [きていくこうぞうひょうしき] /???Base P-marker/
+基底部 [きていぶ] /Base/
+基底部規則 [きていぶきそく] /base rule/
+基底部門 [きていぶもん] /Base Component/
+基本事態 [きほんじたい] /basic circumstance/
+基本状態 [きほんじょうたい] /primitive state/
+基本素性構造 [きほんそせいこうぞう] /basic feature structure/
+基本単位 [きほんたんい] /primitive plot unit/
+基本的な行為 [きほんてきなこうい] /???ACT/
+基本的機能 [きほんてききのう] /a basic function/
+基本動作 [きほんどうさ] /primitive act/
+奇関数 [きかんすう] /odd function/
+奇数 [きすう] /odd number/
+奇妙な格 [きみょうなかく] /quirky case/
+寄生的な空所 [きせいてきなくうしょ] /parasitic gap/
+希望 [きぼう] /hope/
+幾何学 [きかがく] /geometry/
+既定値 [きていち] /default value/default/
+期間付接詞 [きかんふせつし] /period adjunct/
+期待値 [きたいち] /expectation/
+機械学習 [きかいがくしゅう] /machine learning/
+機械翻訳 [きかいほんやく] /machine translation/MT/
+機構 [きこう] /mechanism/
+機能 [きのう] /function/
+機能の連鎖 [きのうのれんさ] /function chains/
+機能語 [きのうご] /functional word/function word/
+機能構造 [きのうこうぞう] /functional structure/
+機能構文論 [きのうこうぶんろん] /functional grammar/
+機能試験項目 [きのうしけんこうもく] /criteria for the linguistic quality of translation/
+機能単一化文法 [きのうたんいつかぶんぽう] /functional unification grammar/FUG/
+機能的不確定性 [きのうてきふかくていせい] /functional uncertainty/
+機能的役割 [きのうてきやくわり] /functional role/
+機能的連語書き替え [きのうてきれんごかきかえ] /rewriting functional phrases/
+帰結 [きけつ] /consequence (program statement)/
+帰納 [きのう] /induction/
+帰納的定義 [きのうてきていぎ] /recursive definition/
+祈願 [きがん] /wishing (vs)/
+規則 [きそく] /scheme/
+規範文法 [きはんぶんぽう] /prescriptive grammar/
+記号 [きごう] /sign/signal (vs)/
+記号トークン [きごうトークン] /sign token/
+記号体系 [きごうたいけい] /open-ended symbol system/
+記述状況 [きじゅつじょうきょう] /described situation/
+記述的妥当性 [きじゅつてきだとうせい] /descriptive adequacy/
+記述文法 [きじゅつぶんぽう] /descriptive grammar/
+記法 [きほう] /notation/
+記録性 [きろくせい] /recordability/
+起因関係 [きいんかんけい] /causal relation/
+起点 [きてん] /source/
+起点言語 [きてんげんご] /source language/
+起点言語の文 [きてんげんごのぶん] /source sentence/
+起点言語文 [きてんげんごぶん] /source language text/
+起動 [きどう] /trigger/
+起動動詞 [きどうどうし] /inchoative verb/
+偽 [ぎ] /false (Boolean logic)/
+技術文 [ぎじゅつぶん] /technical writings/
+擬音語 [ぎおんご] /onomatopoe(t)ic word/
+擬似言語 [ぎじげんご] /pseudo-language/
+擬人化 [ぎじんか] /personification/
+擬声語 [ぎせいご] /onomatopoe(t)ic word/
+擬態語 [ぎたいご] /psychomimes/onomatopeic word/a mimetic word/mimesis/
+擬物化 [ぎぶつか] /objectification (vs personification)/
+犠牲 [ぎせい] /sacrifice/
+疑似空所化 [ぎじくうしょか] /pseudo-gapping/
+疑似現在 [ぎじげんざい] /quasi-present/
+疑似受動化 [ぎじじゅどうか] /pseudo passivization/
+疑似直接目的語 [ぎじちょくせつもくてきご] /pseudo-direct object/
+疑似的原言語 [ぎじてきげんげんご] /pseudo source language/
+疑似分裂構文 [ぎじぶんれつこうぶん] /pseudocleft/
+疑問 [ぎもん] /question/interrogative mood/
+疑問・命令文 [ぎもん・めいれいぶん] /???whimperatives/
+疑問を表わす要素 [ぎもんをあらわすようそ] /interrogative element/
+疑問形 [ぎもんけい] /interrogative (form)/
+疑問形容詞 [ぎもんけいようし] /interrogative adjectives/
+疑問詞 [ぎもんし] /interrogative/
+疑問代名詞 [ぎもんだいめいし] /interrogative pronoun/
+疑問符 [ぎもんふ] /question mark/
+疑問副詞 [ぎもんふくし] /interrogative adverb/
+疑問文 [ぎもんぶん] /Interrogative/interrogative sentence (clause)/
+疑問名詞 [ぎもんめいし] /interrogative noun/
+義務 [ぎむ] /obligation/
+義務・当然・必要の表現 [ぎむ・とうぜん・ひつようのひょうげん] /qqq/
+義務の陳述 [ぎむのちんじゅつ] /statement of obligation/
+義務的意味 [ぎむてきいみ] /deontic meaning/
+議事 [ぎじ] /agenda/
+議論 [ぎろん] /arguing (vs)/
+却下可能 [きゃっかかのう] /cancellable/
+却下可能性 [きゃっかかのうせい] /cancellability/
+却下条件 [きゃっかじょうけん] /rejected condition/
+客観性 [きゃっかんせい] /objectivity/
+客語 [きゃくご] /qqq/
+客体化 [きゃくたいか] /objectify/make (something) objective/
+客体的認識 [きゃくたいてきにんしき] /objective recognition/
+客体的表現 [きゃくたいてきひょうげん] /an objective expression/
+逆関数 [ぎゃくかんすう] /inverse function/
+逆向き連鎖 [ぎゃくむきれんさ] /backward chaining/
+逆行照応 [ぎゃっこうしょうおう] /cataphora/
+逆行代名詞化 [ぎゃっこうだいめいしか] /backward pronominalization/
+逆写像 [ぎゃくしゃぞう] /inverse mapping/
+逆接 [ぎゃくせつ] /qqq/
+逆接条件 [ぎゃくせつじょうけん] /qqq/
+休止 [きゅうし] /pause/
+級数 [きゅうすう] /series/progression/
+旧情報 [きゅうじょうほう] /old information/
+拒否 [きょひ] /refusal/
+虚偽 [きょぎ] /fallacy/
+虚辞 [きょじ] /expletive/dummy head/
+虚数 [きょすう] /i (square root of -1)/
+許可 [きょか] /permission/
+許容の表現 [きょようのひょうげん] /qqq/
+距離の上限なく [きょりのじょうげんなく] /unbounded distance/
+競合解消 [きょうごうかいしょう] /conflict resolution/
+競合集合 [きょうごうしゅうごう] /conflict set/
+共感 [きょうかん] /empathy (FG)/
+共感の輪 [きょうかんのわ] /???speaker's circle/listener's circle/
+共感度 [きょうかんど] /degree of empathy/
+共起 [きょうき] /co-occurrence/co-occur (vs)/
+共起辞書 [きょうきじしょ] /Collocation Dictionary/Co-occurrence Dictionary/
+共起表現 [きょうきひょうげん] /collocation/
+共時的な [きょうじてきな] /synchronic/
+共示 [きょうじ] /connotation/
+共通の意味 [きょうつうのいみ] /universal meaning/
+共通言語 [きょうつうげんご] /lingua franca/
+共通部分 [きょうつうぶぶん] /intersection (of sets)/
+共同原則 [きょうどうげんそく] /Cooperative Principle/
+共同的 [きょうどうてき] /collective/
+共有 [きょうゆう] /sharing/
+協調的な会話 [きょうちょうてきなかいわ] /co-operative conversation/
+境界理論 [きょうかいりろん] /bounding theory (GB)/
+強い関連性 [つよいかんれんせい] /strong connectivity/
+強意 [きょうい] /intensity/
+強意詞 [きょういし] /intensifier (adverb)/
+強化可能性 [きょうかかのうせい] /reinforceability/
+強可算 [きょうかさん] /strongly countable/
+強制的 [きょうせいてき] /obligatory/
+強勢 [きょうせい] /stress (phonetics)/
+強断定的述語 [きょうだんていてきじゅつご] /strong assertive predicate/
+強調 [きょうちょう] /emphasis/
+強調の再帰代名詞 [きょうちょうのさいきだいめいし] /emphatic reflexive/
+強調詞 [きょうちょうし] /emphasizer (adverb)/
+強調的強勢 [きょうちょうてききょうせい] /emphatic stress/
+強調的肯定 [きょうちょうてきこうてい] /emphatic affirmative/
+挟み込む [はさみこむ] /interleave/
+教示 [きょうじ] /instruction/
+橋本文法 [はしもとぶんぽう] /Hashimoto Grammar/
+脅し [おどし] /threat/threatening/
+興味の与格 [きょうみのよかく] /dative of interest/
+局所性 [きょくしょせい] /locality/
+局所性原理 [きょくしょせいげんり] /Locality Principle/
+局所的 [きょくしょてき] /local/
+局所的に並ぶ [きょくしょてきにならぶ] /local/
+局地化 [きょくちか] /localization/
+曲線 [きょくせん] /curve/
+極限 [きょくげん] /limit (of convergence, etc)/
+極小 [きょくしょう] /relative minimum/
+極小詞 [きょくしょうし] /minimizer/
+極性 [きょくせい] /polarity/
+極性疑問文 [きょくせいぎもんぶん] /polar interrogative/yes-no question/
+極大 [きょくだい] /relative maximum/
+極大詞 [きょくだいし] /maximizer/
+極地 [きょくち] /extremum/
+極論 [きょくろん] /reductio ad absurdum/
+均一性 [きんいつせい] /uniformity/
+禁止 [きんし] /prohibition/
+禁止の表現 [きんしのひょうげん] /qqq/
+近似計算 [きんじけいさん] /rough calculation / back-of-envelope calculation/
+近似詞 [きんじし] /approximator/
+近称 [きんしょう] /qqq/
+近接性 [きんせつせい] /proximity/
+句 [く] /phrase/
+句の主要な構成素 [くのしゅようなこうせいそ] /head constituent of a phrase/
+句の先頭に来る [くのせんとうにくる] /phrase initial/
+句レベルの [くレベルの] /phrasal/
+句記号 [くきごう] /phrasal sign/
+句構造 [くこうぞう] /phrase structure/
+句構造規則 [くこうぞうきそく] /phrase structure rule/
+句構造標識 [くこうぞうひょうしき] /phrase-marker/P-marker/
+句構造文法 [くこうぞうぶんぽう] /PSG/phrase-structure grammar/
+句点 [くてん] /period/full stop/
+句動詞 [くどうし] /phrasal verb/
+句読点 [くとうてん] /punctuation marks/comma and period/
+区切り [くぎり] /pause || break/segmentation/
+区切り記号 [くぎりきごう] /punctuation marks/
+駆け引きの公理 [かけひきのこうり] /the maxim of Tact/
+具格 [ぐかく] /instrumental case/
+空 [から] /empty/
+空の演算子 [くうのえんざんし] /null operator/
+空の照応詞 [くうのしょうおうし] /null anaphora /
+空間的視点の移動 [くうかんてきしてんのいどう] /spatial movement of viewpoint/
+空間付接詞 [くうかんふせつし] /space adjunct/
+空集合 [くうしゅうごう] /empty set/
+空所 [くうしょ] /gap/slash (in PSG)/
+空所とその埋語の依存関係 [くうしょとそのまいごのいぞんかんけい] /filler-gap dependency/
+空所化 [くうしょか] /gapping (linguistics)/
+空範疇 [くうはんちゅう] /empty category/
+偶関数 [ぐうかんすう] /even function/
+偶数 [ぐうすう] /even number/
+屈折 [くっせつ] /inflection/
+屈折規則 [くっせつきそく] /inflection rule/
+屈折形 [くっせつけい] /inflectional form/
+屈折言語 [くっせつげんご] /inflectional language/
+屈折辞 [くっせつじ] /inflection (of word)/
+繰り上げ [くりあげ] /raising/
+繰り上げ構文 [くりあげこうぶん] /raising construction /
+繰り返される行為 [くりかえされるこうい] /repeated activities/
+繰り返しの可能性 [くりかえしのかのうせい] /iterability/
+繰り返し否定 [くりかえしひてい] /echo negation/
+繰り返す [くりかえす] /iterate/
+訓読み [くんよみ] /native Japanese reading/
+群 [ぐん] /group (mathematics)/
+係り [かかり] /modification/
+係り結び [かかりむすび] /concord/
+係り受け [かかりうけ] /dependency/syntactic dependency/
+係り受け解析 [かかりうけかいせき] /dependency analysis/
+係り受け関係 [かかりうけかんけい] /dependency relation/
+係り受け交差 [かかりうけこうさ] /crossed dependency/
+係り述節 [かかりじゅつせつ] /dependent predicate/
+係助詞 [かかりじょし] /dependency marker/
+係数 [けいすう] /coefficient/
+傾き [かたむき] /slope (of graph)/
+兄弟 [きょうだい] /sibling (in tree)/
+型板 [かたばん] /template/
+型板マッチング [かたばんマッチング] /template matching/
+形式 [けいしき] /form/
+形式 [けいしき] /form/
+形式−機能 [けいしきーきのう] /form-in-function/
+形式意味論 [けいしきいみろん] /formal semantics/
+形式化する [けいしきかする] /formalize/
+形式形容詞 [けいしきけいようし] /formal adjective/
+形式言語 [けいしきげんご] /formal language (vs natural language)/
+形式推論 [けいしきすいろん] /formal reasoning/
+形式性 [けいしきせい] /formality/
+形式性の原則 [けいしきせいのげんそく] /Rule of Formality/
+形式素 [けいしきそ] /formative/
+形式体言 [けいしきたいげん] /qqq/
+形式的な性 [けいしきてきなせい] /formal gender/
+形式文法の自律性に関する命題 [けいしきぶんぽうのじりつせいにかんするめいだい] /???the thesis of autonomy of formal grammar/
+形式名詞 [けいしきめいし] /formal noun/dummy noun/indefinite noun (such as mono, koto and no)/expletive noun (non-anaphoric)/
+形式用言 [けいしきようげん] /formal verb/
+形態 [けいたい] /morph/
+形態素 [けいたいそ] /morpheme/
+形態素音素規則 [けいたいそおんそきそく] /morphophonemic rule/
+形態素解析 [けいたいそかいせき] /morphological analysis/
+形態素解析型翻訳 [けいたいそかいせきがたほんやく] /Morphological Analysis based Translation/
+形態素処理 [けいたいそしょり] /???WOBSU/
+形態素生成サブモジュール [けいたいそせいせいサブモジュール] /???MORSYN/
+形態的相違点 [けいたいてきそういてん] /morphological differences/
+形態論 [けいたいろん] /Morphemics/morphology/
+形容詞 [けいようし] /adjective/(Japanese I-type) adjective/
+形容詞句 [けいようしく] /adjective phrase/
+形容詞型 [けいようしかた] /adjective pattern/
+形容詞構文 [けいようしこうぶん] /construction with an adjective predicate/
+形容詞節 [けいようしせつ] /adjectival clause/
+形容詞相当語句 [けいようしそうとうごく] /adjectival equivalent/
+形容動詞 [けいようどうし] /(Japanese NA-type) adjective/nominal adjectival/
+形容動詞ダ活用 [けいようどうしダかつよう] /???nominal adjective/
+敬語 [けいご] /polite expression/formal expression/
+敬称 [けいしょう] /qqq/
+敬譲語 [けいじょうご] /qqq/
+系 [けい] /corollary/
+経験の表現 [けいけんのひょうげん] /qqq/
+経験者格 [けいけんしゃかく] /experiencer (case)/
+経路格 [けいろかく] /Path/
+経路付接詞 [けいろふせつし] /path adjunct/
+継起 [けいき] /qqq/
+継承 [けいしょう] /inheritance/inherit (vs)/
+継承階層 [けいしょうかいそう] /inheritance hierarchy/
+継承時制 [けいしょうじせい] /continuous tense/
+継続相 [けいぞくそう] /durative aspect/
+継続態 [けいぞくたい] /qqq/
+繋合辞 [けいごうじ] /copula/
+繋辞 [けいじ] /copula/
+計画 [けいかく] /plan/planning/
+計画立案 [けいかくりつあん] /planning/
+計算 [けいさん] /computation/
+計算の複雑さ [けいさんのふくざつさ] /computational complexity/
+計算機 [けいさんき] /computer/
+計算機言語学 [けいさんきげんごがく] /computational linguistics/
+計算言語学 [けいさんげんごがく] /computational linguistics/
+警告 [けいこく] /warning/
+欠陥 [けっかん] /flaws/
+欠如動詞 [けつじょどうし] /defective verb/
+欠如名詞句 [けつじょめいしく] /defective noun phrase/
+決意 [けつい] /resolve/
+決定 [けってい] /determination/
+決定詞 [けっていし] /determiner/
+決定性 [けっていせい] /determinism/
+決定的 [けっていてき] /deterministic/
+決定的な木変換プログラム [けっていてきなきへんかんプログラム] /deterministic tree transducers/
+決定木 [けっていぎ] /decision tree/
+決定論的解析モデル [けっていろんてきかいせきモデル] /deterministic parsing model/
+結果 [けっか] /result/
+結果格 [けっかかく] /???result/
+結果動詞 [けっかどうし] /qqq/
+結合化 [けつごうか] /valency/
+結合価 [けつごうか] /valence/valency/
+結合価パターン [けつごうパターン] /Valency Pattern/
+結合価関係 [けつごうかかんけい] /valence relation/
+結合価文法 [けつごうかぶんぽう] /valence grammar/
+結合価枠 [けつごうかわく] /valence frame/
+結合理論 [けつごうりろん] /valence theory/
+結束性 [けっそくせい] /cohesion/
+健全 [けんぜん] /sound/
+健全性 [けんぜんせい] /soundness (logic)/
+検証 [けんしょう] /verification/
+仮説を検証する/ [かせつをけんしょうする] /to verify a hypothesis/
+権能割賦 [けんのうかっぷ] /enablement/
+見込み [みこみ] /likelihood/
+謙譲の公理 [けんじょうのこうり] /the maxim of Modesty/
+謙譲語 [けんじょうご] /humble polite expression/humble expression/
+原因 [げんいん] /Cause/
+原因格 [げんいんかく] /qqq/
+原型 [げんけい] /base form (of verb)/
+原形 [げんけい] /original form/
+原言語 [げんげんご] /source language/
+原言語内書き替え [げんげんごないかきかえ] /rewriting within a source language/
+原始性 [げんしせい] /primitiveness/
+原子式 [げんししき] /atomic formula/
+原子的な [げんしてきな] /atomic/
+原子文 [げんしぶん] /atomic sentence/
+原初的遂行表現 [げんしょてきすいこうひょうげん] /primary performatives/
+原点 [げんてん] /axis (of graph)/
+原発的発話 [げんぱつてきはつわ] /primitive performatives/
+原文自動書き替え [げんぶんじどうかきかえ] /rewriting of source text/
+原文自動書換型翻訳方式 [げんぶんじどうかきかえがたほんやくほうしき] /MT Method using automatic rewriting of source language/
+原文前編集 [げんぶんまえへんしゅう] /pre-editing of source text/
+原理 [げんり] /(logic) principle/
+幻想 [げんそう] /illusion/
+減少関数 [げんしょうかんすう] /decreasing function/
+減少詞 [げんしょうし] /diminisher/
+源泉格 [げんせんかく] /source frame/
+現在完了 [げんざいかんりょう] /present perfect/
+現在完了進行 [げんざいかんりょうしんこう] /present perfect progressive/
+現在形 [げんざいけい] /present form/present tense/
+現在時制 [げんざいじせい] /present/present tense/
+現在進行 [げんざいしんこう] /present progressive/
+現在分詞 [げんざいぶんし] /present participle/
+現在分詞規則 [げんざいぶんしきそく] /present-participle rle/
+現実世界 [げんじつせかい] /real world (AI)/
+現象文 [げんしょうぶん] /qqq/
+現場指示 [げんばしじ] /qqq/
+言いよどみ表現 [いいよどみひょうげん] /hesitation/
+言い換え [いいかえ] /paraphrase/paraphrasing/
+言い換え表現 [いいかえひょうげん] /rephrasing/
+言い直し表現 [いいなおしひょうげん] /correction/
+言及行為 [げんきゅうこうい] /act of referring/
+言語 [げんご] /language/
+言語に共通して [げんごにきょうつうして] /cross-linguistically/
+言語の外的意義 [げんごのがいてきいぎ] /external significance of language/
+言語の障壁 [げんごのしょうへき] /language barrier/
+言語依存部分 [げんごいぞんぶぶん] /language specific part/
+言語運用 [げんごうんよう] /linguistic performance/performance/pragmatics/
+言語運用論 [げんごうんようろん] /pragmatics/
+言語過程説 [げんごかていせつ] /Constructive Process Theory/
+言語外 [げんごがい] /extralinguistic/
+言語外の情報 [げんごがいのじょうほう] /extra-linguistic information/
+言語外の知識 [げんごがいのちしき] /extra-linguistic knowledge/
+言語学 [げんごがく] /linguistics/philology/
+言語学者 [げんごがくしゃ] /linguist/
+言語学的観念論 [げんごがくてきかんねんろん] /linguistic conceptualism/
+言語学的実在論 [げんごがくてきじつざいろん] /linguistic realism/
+言語記号 [げんごきごう] /notation/
+言語形式 [げんごけいしき] /qqq/
+言語固有の原理 [げんごこゆうのげんり] /language-specific principles/
+言語行為 [げんごこうい] /speech act/
+言語主体 [げんごしゅたい] /qqq/
+言語集団 [げんごしゅうだん] /a group of users of the same language/
+言語情報研究センター [げんごじょうほうけんきゅうセンター] /Center for the Study of Language and Information/CSLI/
+言語生成能力 [げんごせいせいのうりょく] /language generating competence/
+言語族 [げんごぞく] /a language family/
+言語知識 [げんごちしき] /linguistic knowledge/
+言語的 [げんごてき] /linguistic/
+言語的環境 [げんごてきかんきょう] /immediate linguistic environment/
+言語的特異性 [げんごてきとくいせい] /linguistic idiosyncrasy/
+言語的文脈 [げんごてきぶんみゃく] /linguistic context/
+言語伝達 [げんごでんたつ] /linguistic communication/
+言語能力 [げんごのうりょく] /competence/linguistic competence/
+言語理解 [げんごりかい] /natural language understanding/
+言明 [げんめい] /assertion/statement/
+限られた経路 [かぎられたけいろ] /bounded path/
+限定 [げんてい] /attribute/
+限定されている [げんていされている] /restricted/
+限定詞 [げんていし] /determiner/qualifier/determinative/
+限定的 [げんていてき] /qualifying/restricted/
+限定量化 [げんていりょうか] /retricted quantification/
+限量化 [げんりょうか] /quantification/
+限量子 [げんりょうし] /quantifier/
+限量詞 [げんりょうし] /quantifier/
+個体 [こたい] /individual/
+個体定数 [こたいていすう] /constant/individual (logic)/
+個体変数 [こたいへんすう] /variable (logic)/
+個別化 [こべつか] /individuation/
+個別化の型式 [こべつかのけいしき] /scheme of individuation/
+個別概念 [こべつがいねん] /distributive concept/
+個別性 [こべつせい] /individuality/
+個別的 [こべつてき] /individual/individuated/distributive/
+呼びかけの表現 [よびかけのひょうげん] /qqq/
+呼応 [こおう] /agreement (syntactic / semantic)/
+呼応関係 [こおうかんけい] /concord/
+呼格 [こかく] /vocative/
+固有名詞 [こゆうめいし] /a proper noun/
+孤立言語 [こりつげんご] /isolating language/
+孤立単語認識システム [こりつたんごにんしきシステム] /isolated-word recognition system/
+弧 [こ] /arc/edge/
+誇張 [こちょう] /hyperbole/
+誇張詞 [こちょうし] /amplifer/
+五十音図 [ごじゅうおんず] /word order/
+五段活用 [ごだんかつよう] /godan inflectional paradigm/
+互いに素 [たがいにそ] /relatively prime/
+後位 [こうい] /end position/
+後形容詞 [ごけいようし] /post central adjective/
+後決定詞 [ごけっていし] /postdeterminer/
+後向き推論 [うしろむきすいろん] /backward reasoning/
+後向き連鎖 [うしろむきれんさ] /backward chaining/
+後項動詞 [こうこうどうし] /second verb/
+後修正 [あとしゅうせい] /post-correction (in MT)/
+後続語 [こうぞくご] /Follow (parsing)/
+後置 [こうち] /extraposed/
+後置語彙規則 [こうちごいきそく] /Extraposition Lexical Rule/
+後置詞 [こうちし] /postposition/
+後編集 [あとへんしゅう] /post-editing (in MT)/
+後方指示 [こうほうしじ] /cataphora/
+後方照応 [こうほうしょうおう] /cataphor/
+後戻り [あともどり] /backtracking/
+後戻り型 [あともどりがた] /backtracking (Prolog etc)/
+後戻り処理 [あともどりしょり] /backtracking/
+後戻り制御 [あともどりせいぎょ] /backtracking/
+後戻り法 [あともどりほう] /backtracking/
+語 [ご] /word/
+語の意味の曖昧さ [ごのいみのあいまいさ] /word-sense ambiguity/
+語意 [ごい] /word-sense/
+語幹 [ごかん] /(word) stem/
+語義 [ごぎ] /word meaning/
+語義的 [ごぎてき] /lexical/
+語形 [ごけい] /word form/
+語形変化 [ごけいへんか] /word inflexion/
+語形変形 [ごがたへんけい] /word transformation/
+語根 [ごこん] /root/
+語順 [ごじゅん] /word order/
+語尾 [ごび] /ending/end of a word/ word end/
+語法 [ごほう] /(word) usage/
+語用論 [ごようろん] /pragmatics/
+語用論上のスケール [ごようろんじょうのスケール] /pragmatic scale/
+語用論的 [ごようろんてき] /pragmatic/
+語用論的能力の原則 [ごようろんてきのうりょくのげんそく] /Rules of Pragmatic Competence/
+語彙 [ごい] /lexicon/vocabulary/
+語彙の分析 [ごいのぶんせき] /lexical decomposition/
+語彙の変換 [ごいのへんかん] /lexical transfer/
+語彙学 [ごいがく] /lexicography/
+語彙機能文法 [ごいきのうぶんぽう] /Lexical Functional Grammar/LFG/
+語彙規則 [ごいきそく] /lexical rule/
+語彙見出し [ごいみだし] /lexical entry/
+語彙項目 [ごいこうもく] /lexical item/
+語彙集 [ごいしゅう] /lexicon/
+語彙的 [ごいてき] /lexical/
+語彙的に統率されて [ごいてきにとういつされて] /lexically governed/
+語彙的コントロールの原理 [ごいてきコントロールのげんり] /Principle of Lexical Control/PLC/
+語彙的記号 [ごいてききごう] /lexical sign/
+語彙的主辞 [ごいてきしゅじ] /lexical head/
+語彙的冗長性 [ごいてきじょうちょうせい] /lexical redundancy/
+語彙的理論 [ごいてきりろん] /lexical theory/
+語彙部門 [ごいぶもん] /lexicon/
+語彙分解 [ごいぶんかい] /lexical decomposition/
+誤執行 [ごしっこう] /misexecution/
+誤適用 [ごてきよう] /misapplication/
+誤発動 [ごはつどう] /misinvocation/
+誤用 [ごよう] /qqq/
+交差分類する [こうさぶんるいする] /cross-classify/
+公式 [こうり] /formula/
+公倍数 [こうばいすう] /common multiple/
+公理 [こうり] /axiom/
+公理化 [こうりか] /axiomatization/
+公理論的状況理論 [こうりろんてきじょうきょうりろん] /axiomatic situation theory/
+効力 [こうりょく] /effect/
+口語 [こうご] /colloquial/
+口語文法 [こうごぶんぽう] /colloquial grammar/
+好み [このみ] /preference/
+拘束知識 [こうそくちしき] /constraining knowledge/
+構成規則 [こうせいきそく] /constitutive rules/
+構成性原理 [こうせいせいげんり] /Principle of Compositionality (Montague Grammar)/
+構成素 [こうせいそ] /constituent/
+構成素構造 [こうせいそこうぞう] /constituent structure/
+構成素順序原理 [こうせいそじゅんじょげんり] /Constituent Ordering Principle /
+構成素統御 [こうせいそとうぎょ] /constituent command/
+構造を共有する [こうぞうをきょうゆうする] /share structure/
+構造共有 [こうぞうきょうゆう] /structure sharing/
+構造言語学 [こうぞうげんごがく] /structural linguistics/
+構造主義 [こうぞうしゅぎ] /structuralism/
+構造主義言語学 [こうぞうしゅぎげんごがく] /structural linguistics/
+構造素 [こうぞうそ] /constituent/structural element/
+構造的な意味の単位 [こうぞうてきないみのたんい] /Unit which expresses meaning/
+構造的類似性 [こうぞうてきるいじせい] /structural parallelism/structural similarity/
+構造保持 [こうぞうほじ] /structure preserving/
+構文 [こうぶん] /construction/
+構文の変換 [こうぶんのへんかん] /Transfer of Syntactic Structure/
+構文トランスファー方式 [こうぶんトランスファーほうしき] /Syntactic Analysis based Translation Method/
+構文意味解析 [こうぶんいみかいせき] /syntactic and semantic analysis/
+構文意味辞書 [こうぶんいみじしょ] /semantic structure dictionary/
+構文解析 [こうぶんかいせき] /syntactic analysis/parsing/
+構文解析型トランスファー方式 [こうぶんかいせきがたトランスファーほうしき] /Syntactic Analysis based Transfer Method/
+構文解析型翻訳 [こうぶんかいせきがたほんやく] /Syntactic Analysis based Translation Method/
+構文的および意味的知識 [こうぶんてきおよびいみてきちしき] /syntactic and semantic knowledge/
+構文的カテゴリー [こうぶんてきカテゴリー] /syntactic category/
+構文変形 [こうぶんへんけい] /syntactic transformation/
+構文論 [こうぶんろん] /syntax/
+構文論的 [こうぶんろんてき] /syntactical/
+考え方 [かんがえかた] /idea/way of thinking/
+肯定 [こうてい] /affirmation/
+肯定疑問 [こうていぎもん] /positive question/
+肯定的 [こうていてき] /positive/
+行為 [こうい] /performance/action/
+行為は企図されたが無効 [こういはきとされたがむこう] /act purported but void/
+行為は却下可能 [こういはきゃっかかのう] /Act disallowed/
+行為は言葉だけで実質なし [こういはことばだけでじっしつなし] /act professed but hollow/
+行為拘束型 [こういこうそくがた] /???Commissives/
+行為指導型 [こういしどうがた] /???Directives/
+行為者 [こういしゃ] /agent/
+行為者格 [こういしゃかく] /agentive case/
+行為遂行的発話 [こういすいこうてきはつわ] /performative utterance/
+行為補助部 [こういほじょぶ] /AA/Action Aider/
+行為要請型 [こういようせいがた] /???directives/
+行動 [こうどう] /action/act (vs)/
+行動の序列化 [こうどうのじょれつか] /action sequencing/
+降格する [こうかくする] /demote/
+項 [こう] /argument (GB)/
+項の打ち消し [こうのうちけし] /argument cancellation/
+項位置 [こういち] /argument position/
+項構造 [こうこうぞう] /argument structure/
+項数 [こうすう] /arity/
+項統御 [こうとうぎょ] /argument command/
+高低 [こうてい] /pitch/
+合成 [ごうせい] /generation/
+合接詞 [ごうせつし] /conjunct/
+合併集合 [がっぺいしゅうごう] /union (of sets)/
+黒箱 [くろばこ] /black box (cf glass box)/
+黒板 [こくばん] /blackboard/
+懇願 [こんがん] /begging/beg (vs)/
+根 [ね] /root (of tree)/
+混ぜ合わされた [まぜあわされた] /interleaved/
+混ぜ書き表記 [まぜがきひょうき] /mixed kana-kanji/
+痕跡 [こんせき] /trace/
+左再帰規則 [ひだりさいききそく] /left recursive rules/
+左辺 [さへん] /left-hand side/LHS/
+差 [さ] /(arithmetic) difference/
+座標 [ざひょう] /co-ordinates/
+再帰代名詞 [さいきだいめいし] /reflexive pronoun/
+再帰的に適用可能な規則 [さいきてきにてきようかのうなきそく] /recursively applicable rules/
+再帰的パターンマッチング [さいきてきパターンマッチング] /recursive pattern matching/
+再帰的遷移網 [さいきてきせんいもう] /recursive transition network/RTN/
+再帰動詞 [さいきどうし] /reflexive verb/reflex verb/
+再起的 [さいきてき] /recursive/
+再計算 [さいけいさん] /recalculation/
+再現率 [さいげんりつ] /recall/recall rate/recall factor/
+最後状態 [さいごじょうたい] /final state (for automata)/
+最小の対比 [さいしょうのたいひ] /minimal contrast/
+最小公倍数 [さいしょうこうばいすう] /LCM/least common multiple/
+最小対 [さいしょうたい] /minimal pair/
+最小値 [さいしょうち] /minimum value/
+最大 [さいだい] /maximum/superlative/
+最大下限 [さいだいかげん] /greatest lower bound/
+最大公約数 [さいだいこうやくすう] /GCD (greatest common divisor)/
+最大値 [さいだいち] /maximal value/
+最長一致 [さいちょういっち] /the longest-first method/
+作用域 [さよういき] /scope/
+作用範囲 [さようはんい] /range/
+削除 [さくじょ] /ellipsis / deletion/
+三角関数 [さんかくかんすう] /trigonomoetric function/
+三項 [さんこう] /ternary/
+三人称 [さんにんしょう] /third person (grammar)/
+三段活用 [さんだんかつよう] /qqq/
+三段論法 [さんだんろんぽう] /modus ponens/
+参照タイプ [さんしょうタイプ] /reference type/
+参照マーカ [さんしょうマーカ] /reference marker/
+散文 [さんぶん] /prose/
+産出 [さんしゅつ] /(sentence) production/generation/
+算定可能性 [さんていかのうせい] /calculability/
+算用数字 [さんようすうじ] /arabic numeral/ arabic figure/
+仕様 [しよう] /specifications (of program etc)/
+使役 [しえき] /causative/cause/
+使役主 [しえきしゅ] /causal agent/
+使役動詞 [しえきどうし] /causative verb/
+使役文 [しえきぶん] /causative sentence/
+使役用法 [しえきようほう] /causative use/
+刺激フレーム [しげきフレーム] /stimulus frame/
+始点格 [してんかく] /Source/
+始動相 [しどうそう] /qqq/
+始動態 [しどうたい] /qqq/
+姉妹構成素 [しまいこうせいそ] /sister constituents/
+子音 [しいん] /consonant/
+子構成素 [ここうせいそ] /daughter/
+子範疇 [こはんちゅう] /daughter (category) - PSG structure tree/
+指示 [しじ] /directive/reference/direct (vs)/refer (vs)/
+指示する [しじする] /denote/
+指示タイプ [しじタイプ] /referential type/
+指示形容詞 [しじけいようし] /demonstrative adjective/
+指示語 [しじご] /demonstrative/
+指示行為 [しじこうい] /???directives/
+指示詞 [しじし] /demonstrative/
+指示性 [しじせい] /referential property/directedness/
+指示性 [しじせい] /referentiality/
+指示対象 [しじたいしょう] /referent/
+指示代名詞 [しじだいめいし] /demonstrative pronoun/
+指示的指標 [しじてきしひょう] /referential index/
+指示的名詞 [しじてきめいし] /referential/
+指示表現 [しじひょうげん] /R-expressions (GB)/
+指示副詞 [しじふくし] /demonstrative adverb/
+指示物 [しじぶつ] /referent/
+指図 [さしず] /instruction/
+指数 [しすう] /an index || an exponent/
+指数関数 [しすうかんすう] /exponential function/
+指定されていない [していされていない] /unspecified/
+指定詞 [していし] /specifier/
+指定辞 [していじ] /specifier/
+指定主語条件 [していしゅごじょうけん] /Specified Subject condition/
+指導原理 [しどうげんり] /guiding principle/
+指標 [しひょう] /index/
+指標付き対象 [しひょうつきたいしょう] /indexed object/
+指令 [しれい] /commanding/
+支持する [しじする] /support/
+支配 [しはい] /domination/dominate (vs)/
+支配する [しはいする] /dominate (syntax)/
+枝 [えだ] /link/arc/branch/
+枝刈り [えだかり] /pruning (of tree)/
+枝刈りヒューリスティック [えだかりヒューリスティック] /pruning heuristic/
+死喩 [しゆ] /dead metaphor/
+私信 [ししん] /personal communication /
+視点 [してん] /view point/
+詞 [し] /independent word (suf)/
+詩的語順倒置 [してきごじゅんとうち] /poetic inversion/
+試行錯誤 [しこうさくご] /trial and error/
+資質 [ししつ] /qualities/
+事実 [じじつ] /fact/
+事実確認的発語 [じじつかくにんてきはつご] /constative utterance/
+事実知識 [じじつちしき] /factual knowledge (part of human knowledge)/
+事象 [じしょう] /event/phenomenon/
+事象駆動 [じしょうくどう] /event driven/
+事態 [じたい] /circumstances/state of affairs/
+事態の論理 [じたいのろんり] /logic of circumstances/
+事例節点 [じれいせってん] /instance node/
+字種 [じしゅ] /character type/
+時 [とき] /time/
+時の関係 [ときのかんけい] /time relation/
+時間 [じかん] /time/
+時間の下位公理 [じかんのかいこうり] /the submaxim of Time/
+時間フレーム [じかんフレーム] /time frame/
+時間格 [じかんかく] /time (case)/
+時間関係 [じかんかんけい] /time relation/
+時間付接詞 [じかんふせつし] /time adjunct/
+時称 [じしょう] /temporal expression/
+時制 [じせい] /tense/
+時制の付いた動詞 [じせいのついたどうし] /finite verb/
+次数 [じすう] /degree (of polynomial)/
+示唆 [しさ] /suggetion/
+自称 [じしょう] /first person/
+自称詞 [じしょうし] /qqq/
+自然な種類 [しぜんなしゅるい] /natural class/
+自然な性 [しぜんなせい] /natural gender/
+自然のスコープ [しぜんのスコープ] /natural scope/
+自然演繹 [しぜんえんえき] /natural deduction/
+自然言語 [しぜんげんご] /natural language/
+自然言語インタフェース [しぜんげんごインタフェース] /natural language interface/
+自然言語処理 [しぜんげんごしょり] /NLP/natural language processing/
+自然言語理解 [しぜんげんごりかい] /NLU/natural language understanding/
+自然数 [しぜんすう] /natural number/
+自然対数 [しぜんたいすう] /natural logarithm/
+自動言語処理諮問委員会 [じどうげんごしょりしもんいいんかい] /Automatic Language Processing Advisory Committee/
+自動詞 [じどうし] /intransitive verb/
+自動詞と他動詞の対応 [じどうしとたどうしのたいおう] /transitive-intransitive correspondence/
+自動通訳電話機 [じどうつうやくでんわき] /automatic interpreting telephoney machine/
+自発の表現 [じはつのひょうげん] /qqq/
+自由語順の [じゆうごじゅんの] /free word order/
+自由照応形 [じゆうしょうおうけい] /free anaphor/
+自由代数 [じゆうだいすう] /free algebra/
+自由変数 [じゆうへんすう] /free variable/
+自由訳 [じゆうやく] /free translation/
+自立語 [じりつご] /qqq/
+自立的な語 [じりつてきなご] /an independent word/
+辞 [じ] /appendant/
+辞書 [じしょ] /lexicon/dictionary/
+辞書記述 [じしょきじゅつ] /lexical description (PSG)/
+辞書情報に基づく分析 [じしょじょうほうにもとづくぶんせき] /lexically-based analysis/
+識別ネット [しきべつネット] /discrimination net/
+失敗 [しっぱい] /fail (vs)/
+質の公理 [しつのこうり] /the maxim of Quality/
+質問 [しつもん] /question (vs)/
+質問応答 [しつもんおうとう] /question-answering/
+質問応答システム [しつもんおうとうシステム] /???QA system/
+質問言語 [しつもんげんご] /query language/
+実験認識行為 [じっけんにんしきこうい] /experimental epistemology/
+実効が失われる [じっこうがうしなわれる] /vitiated/
+実効部 [じっこうぶ] /action part/
+実行 [じっこう] /run/execute/
+実在論的命題 [じつざいろんてきめいだい] /realistic proposition/
+実数 [じっすう] /real number/
+実体 [じったい] /substance/
+実体を表す語 [じったいをあらわすご] /words which represent substance/
+実体概念 [じったいがいねん] /Concept of Substance???/
+実体中心の発想 [じったいちゅうしんのはっそう] /substance oriented conception/
+実体中心主義 [じったいちゅうしんしゅぎ] /principle of substance base/
+実体論理性 [じったいろんりせい] /substantial logic/
+実例 [じつれい] /instance/
+写真名詞 [しゃしんめいし] /picture noun ???/
+写像 [しゃぞう] /mapping / projection/
+斜格 [じょかく] /oblique case/
+斜格機能 [じょかくきのう] /oblique function/
+斜格性 [じょかくせい] /obliqueness/
+斜格性の階層 [じょかくせいのかいそう] /obliqueness hierarchy/
+斜格性統御 [じょかくせいとうぎょ] /obliqueness command/
+斜格動作主機能 [じょかくどうさしゅきのう] /oblique agent function/
+斜格目的語 [じょかくもくてきご] /oblique object/
+社会的な規則 [しゃかいてきなきそく] /social convention/
+社会的規範 [しゃかいてききはん] /Social Norm/
+弱可算 [じゃっかさん] /weakly countable/
+弱断定的述語 [じゃくだんていてきじゅつご] /weak assertive predicate/
+主概念 [しゅがいねん] /main concept/
+主格 [しゅかく] /nominative case/
+主格成分 [しゅかくせいぶん] /qqq/
+主格名詞句 [しゅかくめいしく] /nominative noun phrase/
+主観 [しゅかん] /subjectivity/
+主観性 [しゅかんせい] /subjectivity/
+主語 [しゅご] /subject/
+主語・助動詞の倒置 [しゅご・じょどうしのとうち] /Subject-Aux Inversion/
+主語・助動詞倒置 [しゅご・じょどうしとうち] /subject-auxiliary inversion/
+主語・動詞倒置 [しゅご・どうしとうち] /subject-verb inversion/
+主語から主語への繰り上げ [しゅごからしゅごへのくりあげ] /Subject-to-Subject Raising/
+主語から目的語への繰り上げ [しゅごからもくてきごへのくりあげ] /Subject-to-Object Raising/SOR/
+主語格 [しゅごかく] /nominative case/
+主語繰り上げ変形 [しゅごくりあげへんけい] /subject raising/
+主語指向付接詞 [しゅごしこうふせつし] /subject-oriented adjunct/
+主語条件 [しゅごじょうけん] /Subject Condition/
+主辞 [しゅじ] /(syntactic) head / subject/
+主辞−補語構造 [しゅじ−ほごこうぞう] /head-complement-structure/
+主辞−埋語構造 [しゅじ−まいごこうぞう] /head-filler-structure/
+主辞なしの [しゅじなしの] /null-headed/
+主辞による統率 [しゅじによるとういつ] /head-governed/
+主辞駆動 [しゅじくどう] /head-driven/
+主辞駆動句構造文法 [しゅじくどうくこうぞうぶんぽう] /head-driven phrase structure grammar/
+主辞後続型言語 [しゅじこうぞくがたげんご] /head-final language/
+主辞後続言語 [しゅじこうぞくげんご] /head-final language/
+主辞先行型言語 [しゅじせんこうがたげんご] /head-initial language/
+主辞先行言語 [しゅじせんこうげんご] /head-initial language/
+主辞素性 [しゅじそせい] /head feature/
+主辞素性規約 [しゅじそせいきやく] /Head Feature Convention/HFC/
+主辞素性原理 [しゅじそせいのげんり] /head feature principle (PSG)/
+主辞包接 [しゅじほうせつ] /head wrapping/
+主述関係 [しゅじゅつかんけい] /qqq/
+主節 [しゅせつ] /main clause/principal clause/
+主節現象 [しゅせつげんしょう] /main clause phenomena/
+主前形容詞 [しゅぜんけいようし] /prehead adjective/
+主体 [しゅたい] /agent/actor/
+主体的 [しゅたいてき] /subjective/
+主体的認識 [しゅたいてきにんしき] /subjective recognition/
+主体的表現 [しゅたいてきひょうげん] /subjective expression/
+主題 [しゅだい] /theme/topic/
+主題化 [しゅだいか] /topicalisation/topicalized/
+主題化文 [しゅだいかぶん] /topicalized sentence/
+主題関係 [しゅだいかんけい] /thematic relation/
+主断定 [しゅだんてい] /main assertion/
+主張 [しゅちょう] /assert (vs)/assertion/
+主動詞 [しゅどうし] /main verb/
+主部 [しゅぶ] /sentence head/
+主文 [しゅぶん] /main sentence/
+主補語 [しゅほご] /subject complement/
+主命題 [しゅめいだい] /main proposition/
+主要な [しゅような] /major/
+主要な素性 [しゅようなそせい] /major feature/
+主要な品詞 [しゅようなひんし] /major category/
+主要な部分 [しゅようなぶぶん] /principle parts/
+主要強勢 [しゅようきょうせい] /main stress/
+主要部 [しゅようぶ] /(syntactic) head/
+主要部・非主要部衝突 [しゅようぶ・ひしゅようぶしょうとつ] /head-nonhead conflict/
+主要部後続 [しゅようぶこうぞく] /head final/
+主要部先行 [しゅようぶせんこう] /head initial/
+取り出し [とりだし] /extraction/
+取り消す [とりけす] /cancel/
+手続き [てつづき] /procedure (in programming)/
+手続きの付加 [てつづきのふか] /procedural attachment/
+手続き型 [てつづきがた] /procedural/
+手続き型の知識表現 [てつづきがたのちしきひょうげん] /procedual knowledge representation/
+手続き的 [てつづきてき] /procedural (knowledge, etc)/
+手続き的意味 [てつづきてきいみ] /procedural semantics/
+手続き的推論 [てつづきてきすいろん] /procedural reasoning/
+手続き的表現 [てつづきてきひょうげん] /procedural representation/
+手段−目標解析 [しゅだん−もくひょうかいせき] /means-ends analysis/
+手段付接詞 [しゅだんふせつし] /means adjunct/
+種別 [しゅべつ] /types/
+首尾一貫性 [しゅびいっかんせい] /???coherence/
+受け手性 [うけてしょう] /patiency/
+受け述節 [うけじゅつせつ] /head predicate/
+受け身 [うけみ] /passive voice/
+受益者−寄与者 [じゅえきしゃ−きよしゃ] /recipient-donor/
+受益文 [じゅえきぶん] /giving and receiving sentence/
+受給の表現 [じゅきゅうのひょうげん] /qqq/
+受身 [うけみ] /passive (voice)/
+受動 [じゅどう] /passive (sentence)/
+受動化の可能性 [じゅどうかのかのうせい] /passivizability/
+受動化規則 [じゅどうかきそく] /passive rule/
+受動態 [じゅどうたい] /passive voice/
+受動変形 [じゅどうへんけい] /passivization/
+受容感覚動詞 [じゅようかんかくどうし] /receptive perception verb/
+受容動詞 [じゅようどうし] /receptive verb/
+受理 [じゅり] /accept (vs)/acceptance/
+受理状態 [じゅりじょうたい] /accept state/
+授受 [じゅじゅ] /give and take/transfer/
+樹形図 [じゅけいず] /tree diagram/
+収束する [しゅうそくする] /to converge/
+修辞疑問 [しゅうじぎもん] /rhetorical question/
+修辞疑問文 [しゅうじぎもんぶん] /rhetorical question/
+修辞的 [しゅうじてき] /rhetorical/
+修飾 [しゅうしょく] /modification/modify (vs)/
+修飾句 [しゅうしょくく] /modifier/
+修飾形 [しゅうしょくけい] /contracted form/
+修飾語 [しゅうしょくご] /modifier/
+修飾要素 [しゅうしょくようそ] /modifier/
+修正可能性 [しゅうせいかのうせい] /modifiability/
+終結相 [しゅうけつそう] /terminative aspect/
+終結態 [しゅうけつたい] /qqq/
+終止形 [しゅうしけい] /third base/conclusive base/dictionary form/
+終止法 [しゅうしほう] /qqq/
+終助詞 [しゅうじょし] /sentence-final particle (wa, ne, yo)/
+終端記号 [しゅうたんきごう] /terminal [node]/terminal symbol/
+終了事象 [しゅうりょうじしょう] /end event/
+終了符号 [しゅうりょうふごう] /ending signal (dialogue)/
+習慣的な [しゅうかんてきな] /conventional/
+習慣的現在 [しゅうかんてきげんざい] /habitual present/
+集合 [しゅうごう] /(mathematical) set/
+集合記述 [しゅうごうきじゅつ] /set description/
+集合的 [しゅうごうてき] /collective/
+集合名詞 [しゅうごうめいし] /collective noun/
+集合論 [しゅうごうろん] /set theory/
+集積回路 [しゅうせきかい] /integrated circuit/IC/
+集積的 [しゅうせきてき] /cumulative/
+従属句 [じゅうぞくく] /subordinate phrase/
+従属節 [じゅうぞくせつ] /dependent clause/subordinate clause/
+従属文 [じゅうぞくぶん] /subordinate sentence/
+従断定 [じゅうだんてい] /subordinate assertion/
+従命題 [じゅうめいだい] /subordinate proposition/
+縦型 [たてがた] /depth-first/
+縦型探索 [たてがたたんさく] /depth-first search/
+縦方向の [たてほうこうの] /vertical/
+重い名詞句の移動 [おもいめいしくのいどう] /Heavy NP Shift/
+重文 [じゅうぶん] /compound sentence/
+祝福 [しゅくふく] /Congratulating/
+縮退型接続表現の表現 [しゅくたいかたせつぞくひょうげんのひょうげん] /rewriting degenerated conjunctive expressions/
+縮約 [しゅくやく] /contraction/
+縮約関係節 [しゅくやくかんけいせつ] /reduced relative/
+熟語 [じゅくご] /idiom/kanji compound word/
+出現頻度 [しゅつげんひんど] /frequency of appearance/
+出来事 [できごと] /event/
+述語 [じゅつご] /predicate/
+述語・項構造 [じゅつご・こうこうぞう] /predicate-argument structure/
+述語記号 [じゅつごきごう] /predicate (logic)/
+述語句 [じゅつごく] /predicate clause/
+述語補完型書き替え [じゅつごほかんかたかきかえ] /rewriting of supplemented predicates/
+述語論理 [じゅつごろんり] /predicate calculus/predicate logic/
+述表示型 [じゅつひょうじかた] /Representatives/
+述部構造の書き替え [じゅつぶこうぞうのかきかえ] /rewriting verb phrases/
+述部類照応 [じゅつぶしょうおう] /predicate anaphora/
+循環 [じゅんかん] /cycle/
+循環性 [じゅんかんせい] /cyclicity/
+循環的 [じゅんかんてき] /cyclic/
+循環的に [じゅんかんてきに] /cyclically/
+循環的並べ換え [じゅんかんてきならべかえ] /cyclic permutation/
+準体言 [じゅんたいげん] /secondary substantive/
+準体助詞 [じゅんたいじょし] /qqq/
+準同形 [じゅんどうけい] /homomorphism/
+準備条件 [じゅんびじょうけん] /Preparatory Condition/
+準副助詞 [じゅんふくじょし] /qqq/
+準副体助詞 [じゅんふくたいじょし] /qqq/
+準名詞 [じゅんめいし] /qqq/
+準用 [じゅんよう] /qqq/
+準用語 [じゅんようご] /qqq/
+準用助詞 [じゅんようじょし] /qqq/
+準用助辞 [じゅんようじょじ] /qqq/
+純叙実の述語 [じゅんじょじつのじゅつご] /purefactive predicates/
+純同型の [じゅんどうけいの] /homomorphic/
+順行照応 [じゅんこうしょうおう] /(forward) anaphora/
+順序で分類された [じゅんじょでぶんるいされた] /order sorted/
+順序接続 [じゅんじょせつぞく] /sequential conjunction/
+初期状態 [しょきじょうたい] /initial state (of automata)/
+所動詞 [しょどうし] /qqq/
+所有 [しょゆう] /possession/possess (vs)/
+所有関係の枝 [しょゆうかんけいのえだ] /ownership link/
+所有形容詞 [しょゆうけいようし] /possessive adjective/
+所有代名詞 [しょゆうだいめいし] /possessive pronoun/
+書き言葉 [かきことば] /???written language/
+書き出し [かきだし] /spell-out/
+書換 [かきかえ] /rewrite/
+書換え規則 [かきかえきそく] /rewrite rule/production rule/
+助詞 [じょし] /particle/joshi (a post positional word functioning as an auxiliary to a main word)/post-positional particle/
+助辞 [じょじ] /particle/
+助数詞 [じょすうし] /numerical classifier/numerative/
+助動詞 [じょどうし] /auxiliary verb/modal/
+助動詞相当連語 [じょどうしそうとうれんご] /modal equivalent/
+叙実述語 [じょじつしゅつご] /factive predicate/
+叙実的述語 [じょじつてきじゅつご] /factive predicate/
+叙実副詞 [じょじつふくし] /factive adverbials/
+叙述 [じょじゅつ] /predicative/
+叙述形容詞 [じょじゅつけいようし] /predicative adjunct/
+叙述行為 [じょじゅつこうい] /act of predicating/
+叙述付加節 [じょじゅつふかせつ] /predicative adjunct clause/
+叙述用語 [じょじゅつようご] /predicative use/
+叙法構造 [じょほうこうぞう] /modal structure/
+叙法助動詞 [じょほうじょどうし] /modal/
+女性 [じょせい] /feminine/
+序数 [じょすう] /ordinal number/
+序数詞 [じょすうし] /ordinal number (first, second, ...)/
+序説 [じょせつ] /intonation/
+除外 [じょがい] /rule out/
+商 [しょう] /quotient/
+将現相 [しょうげんそう] /qqq/
+将現態 [しょうげんたい] /qqq/
+将然相 [しょうぜんそう] /qqq/
+将然態 [しょうぜんたい] /qqq/
+小辞 [しょうじ] /particle/
+小節 [しょうせつ] /small clause/
+昇格 [しょうかく] /promotion/
+消極的な丁寧さ [しょうきょくてきなていねいさ] /negative politeness/
+焦点 [しょうてん] /focus/
+焦点との連合 [しょうてんとのれんごう] /association with focus/
+焦点の当たった [しょうてんのあたった] /focused/
+焦点化付接詞 [しょうてんかふせつし] /focusing adjunct/
+照応 [しょうおう] /anaphor/
+照応関係 [しょうおうかんけい] /anaphoric relation/
+照応形 [しょうおうけい] /anaphor/
+照応指示 [しょうおうしじ] /anaphoric reference/
+照応詞 [しょうおうし] /anaphor/
+照応表現 [しょうおうひょうげん] /overt anaphor/
+照応不能領域 [しょうおうふのうりょういき] /anaphoric island/
+照合 [しょうごう] /matching/match (vs)/
+省略 [しょうりゃく] /ellipsis/deletion/
+衝突事象 [しょうとつじしょう] /collision event/
+詳述リスト [しょうじゅつリスト] /specification list/
+象限 [しょうげん] /quadrant/
+障害 [しょうがい] /hitches/obstacle/
+上に凸 [うえにとつ] /convex/
+上への写像 [うえへのしゃぞう] /onto-mapping/
+上位 [じょうい] /superordinate/
+上位タイプ [じょういタイプ] /super type/
+上位概念語 [じょういがいねんご] /hypernym/
+上位互換性 [じょういごかんせい] /superordinate compatibility/
+上位集合 [じょういしゅうごう] /superset/
+上一段活用 [かみいちだんかつよう] /qqq/
+上下関係の正しい [じょうげかんけいのただしい] /right-side up/
+上階の [じょうかいの] /superior/upper level/
+上昇型 [じょうしょうがた] /bottom-up/
+上昇詞 [じょうしょうし] /booster/
+冗長 [じょうちょう] /redundant / verbose (utterance)/
+冗長性規則 [じょうちょうせいきそく] /redundancy rule/
+冗長表現 [じょうちょうひょうげん] /redundant expression/
+場 [ば] /situation/
+場と伝達 [ばとでんたつ] /qqq/
+場所格 [ばしょかく] /location/ locative case/
+場所付接詞 [ばしょふせつし] /place adjunct/
+場面 [ばめん] /situation/
+場面を設定する [ばめんをせっていする] /scene-setting/
+場面知識 [ばめんちしき] /situational knowledge/
+常識知識 [じょうしきちしき] /general knowledge/
+常識的知識 [じょうしきてきちしき] /general / world knowledge (component of factual knowledge)/
+常体 [じょうたい] /natural state/
+情景 [じょうけい] /visual scene/
+情態副詞 [じょうたいふくし] /qqq/
+情報 [じょうほう] /information/
+情報に基礎をおいた [じょうほうにきそをおいた] /information-based/
+情報を担う媒体 [じょうほうをになうばいたい] /Information-bearing object/
+情報検索 [じょうほうけんさく] /information retrieval/
+情報提示の依頼 [じょうほうていじのいらい] /request for information/
+情報量が多い [じょうほうりょうがおおい] /more informative/
+条件 [じょうけん] /condition/
+条件句 [じょうけんく] /conditional phrase/
+条件接続 [じょうけんせつぞく] /conditional conjunction/
+条件素性構造 [じょうけんそせいこうぞう] /conditional feature structure/
+条件表現 [じょうけんひょうげん] /conditional expression/
+条件付き単一化 [じょうけんつきたんいつか] /conditioned unification/
+条件部 [じょうけんぶ] /conditional part/
+条件文 [じょうけんぶん] /conditional statement/
+条項 [じょうこう] /stipulation/
+状況 [じょうきょう] /situation/
+状況意味論 [じょうきょういみろん] /situation semantics/
+状況志向の [じょうきょうしこうの] /situation oriented/
+状況知識 [じょうきょうちしき] /situational knowledge/
+状況中心の発想 [じょうきょうちゅうしんのはっそう] /situation oriented conception/
+状況論理性 [じょうきょうろんりせい] /situational logic/
+状態 [じょうたい] /situation/
+状態的動詞 [じょうたいてきどうし] /stative verb/
+状態動詞 [じょうたいどうし] /stative verb/
+畳語形 [じょうごけい] /qqq/
+譲歩 [じょうほ] /concession/
+信じる [しんじる] /believe (vs)/
+心理言語学 [しんりげんごがく] /psycholinguistics/
+心理主義 [しんりしゅぎ] /psychologism/
+心理的述語 [しんりてきじゅつご] /psychological predicate/
+新情報 [しんじょうほう] /new information/
+深い推論 [ふかいすいろん] /deep reasoning/
+深層 [しんそう] /deep/
+深層格 [しんそうかく] /deep case/
+深層構造 [しんそうこうぞう] /deep structure/
+深層主語 [しんそうしゅご] /deep subject/
+深層照応 [しんそうしょうおう] /deep anaphora/
+真 [しん] /true (Boolean logic)/truth/
+真に統率される [しんにとういつされる] /properly governed/
+真の叙実的述語 [しんのじょじつてきじゅつご] /true factive predicate/
+真の命題 [しんのめいだい] /true proposition/
+真理価値 [しんりかち] /truth value/
+真理値 [しんりち] /truth value/
+真理値表 [しんりちひょう] /truth table/
+神経回路網 [しんけいかいろもう] /neural network/
+親 [おや] /parent (in tree)/
+親構成素 [おやこうせいそ] /mother/
+親範疇 [おやはんちゅう] /mother (category) - PSG structure tree/
+進行形 [しんこうけい] /progressive tense/
+進行時制 [しんこうじせい] /progressive tense/
+進行相 [しんこうそう] /progressive aspect/
+進行態 [しんこうたい] /qqq/
+進行代名詞化 [しんこうだいめいしか] /forward pronominalization/
+人間の問題解決 [にんげんのもんだいかいけつ] /human problem solving/
+人間性名詞 [にんげんせいめいし] /human noun/
+人工知能 [じんこうちのう] /Artificial Intelligence/
+人称 [にんしょう] /(grammatical) person/
+人称詞 [にんしょうし] /personal phrase/
+人称代名詞 [にんしょうだいめいし] /personal pronoun/
+人名 [じんめい] /person's name/
+推移的 [すいいてき] /transitive/
+推奨 [すいしょう] /advocating/
+推量の表現 [すいりょうのひょうげん] /qqq/
+推量形 [すいりょうけい] /tentative base/
+推論 [すいろん] /inference / reasoning/reason (vs)/infer (vs)/
+推論機構 [すいろんきこう] /inferencer/
+推論規則 [すいろんきそく] /rules of inference/
+推論知識 [すいろんちしき] /inferential knowledge/
+遂行的発話 [すいこうてきはつわ] /performative utterance/
+遂行動詞 [すいこうどうし] /performative verb/
+遂行分析 [すいこうぶんせき] /performative analysis/
+遂行文 [すいこうぶん] /performative analysis/
+随意性のスケール [ずいいせいのスケール] /optionality scale/
+随意変形 [ずいいへんけい] /optional transformation/
+数 [すう] /number/
+数え上げ [かぞえあげ] /numeration/
+数の一致 [すうのいっち] /number agreement/
+数学帰納法 [すうがくきのうほう] /mathematical induction/
+数詞 [すうし] /numeral/
+数字 [すうじ] /numeral/
+数量詞 [すうりょうし] /quantifier/
+数量詞の遊離 [すうりょうしのゆうり] /quantifier float/
+世界知識 [せかいちしき] /world knowledge/
+是認の公理 [ぜにんのこうり] /the maxim of Approbation/
+制限グラフ [せいげんグラフ] /constraint graph/
+制限言語 [せいげんげんご] /controlled language/
+制限詞 [せいげんし] /limiter/
+制限付きパラメター [せいげんつきパラメター] /restricted parameter/
+制限付き構造化計画 [せいげんつきこうぞうかけいかく] /constraint structured planning/
+制限付き量化子 [せいげんつきりょうかし] /restricted quantifier/
+制度化された状況 [せいどかされたじょうきょう] /institutional states of affairs/
+制約 [せいやく] /constraint/
+制約プログラミング [せいやくプログラミング] /constraint programming/
+制約単一化 [せいやくたんいつか] /constraint unification/
+性 [せい] /gender/
+性質 [せいしつ] /property/
+成句的表現書き替え [せいくてきひょうげんかきかえ] /rewriting idiomatic phrases/
+成就 [じょうじゅ] /achievement/
+成層文法 [せいそうぶんぽう] /systemic grammar/
+成立する [せいりつする] /hold/
+整合論理式 [せいごうろんりしき] /well-formed formula/WFF/
+整式 [せいしき] /wff (well-formed formula)/
+整数 [せいすう] /integer/
+正の数 [せいのすう] /positive number/
+正確性 [せいかくせい] /correctness/
+正規化表現 [せいきかひょうげん] /canonical expression/
+正規文法 [せいきぶんぽう] /regular grammar/
+正書法 [せいしょほう] /description standard/
+生成 [せいせい] /generate (vs)/generation/
+生成意味論 [せいせいいみろん] /generative semantics/
+生成規則 [せいせいきそく] /production rule/generation rule/
+生成文法 [せいせいぶんぽう] /generative grammar/
+誠実条件 [せいじつじょうけん] /sincerity condition/
+誓い [ちかい] /pledge/swearing/
+静的 [せいてき] /static/
+静的属性 [せいてきぞくせい] /static attribute/
+積 [せき] /product/
+積極的な丁寧さ [せっきょくてきなていねいさ] /positive politeness/
+積集合 [せきしゅうごう] /set intersection/
+積分 [せきぶん] /integration (calculus)/
+積分する [せきぶんする] /integrate/
+積分定数 [せきぶんていすう] /constant of integration/
+積木の世界 [つみきのせかい] /blocks world/
+切換え言語 [きりかえげんご] /switching language/
+切片 [せっぺん] /intercept/
+接辞 [せつじ] /affix/
+接続 [せつぞく] /conjoin (vs)/conjunction/
+接続テーブル [せつぞくテーブル] /connection table (morphological analysis)/
+接続詞 [せつぞくし] /conjunction/
+接続助詞 [せつぞくじょし] /conjunctive particle/auxiliary connective/
+接続属性 [せつぞくぞくせい] /conjunctive attributes/
+接続表 [せつぞくひょう] /connection table/
+接続表現書き替え [せつぞくひょうげんかきかえ] /rewriting conjunctive expressions/
+接続表現明示型書き替え [せつぞくひょうげんめいじかたかきかえ] /rewriting conjunctive expressions/
+接続副詞 [せつぞくふくし] /conjunctive adverb/
+接続法 [せつぞくほう] /qqq/
+接頭語 [せっとうご] /prefix/
+接頭辞 [せっとうじ] /prefix/
+接尾語 [せつびご] /suffix/
+接尾辞 [せつびじ] /suffix/
+節 [せつ] /clause/
+節疑問 [せつぎもん] /clause interrogation/
+節点 [せってん] /node/
+節否定 [せつひてい] /clause negation/
+説明的妥当性 [せつめいてきだとうせい] /explanatory adequacy/
+絶対可算 [ぜったいかさん] /fully countable/
+絶対敬語 [ぜったいけいご] /qqq/
+絶対値 [ぜったいち] /absolute value (modular)/
+絶対的指示 [ぜったいてきしじ] /qqq/
+絶対複数 [ぜったいふくすう] /pluralia tantum/
+先行詞 [せんこうし] /antecedent/
+先読み [さきよみ] /lookahead (parsing)/
+先読み語 [さきよみご] /Lookahead (parsing)/
+宣言型 [せんげんがた] /declarative/
+宣言型の知識表現 [せんげんがたのちしきひょうげん] /declarative knowledge representation/
+宣言的 [せんげんてき] /declarative/
+宣言的な表現 [せんげんてきなひょうげん] /declarative representation/
+宣告命名型 [せんこくめいめいがた] /???Declaratives/
+専門パターン対辞書 [せんもんパターンついじしょ] /specialized pattern transfer dictionary/
+専門辞書 [せんもんじしょ] /terminology dictionary/
+専門的知識 [せんもんてきちしき] /specialist knowledge (component of factual knowledge)/
+専門用語 [せんもんようご] /technical term/jargon/
+浅い推論 [あさいすいろん] /shallow reasoning/
+潜在的先行詞 [せんざいてきせんこうし] /implicit antecedent/
+線形順序 [せんけいじゅんじょ] /linear ordering/
+線形順序制約 [せんけいじゅんじょせいやく] /linear precedence rule/
+線状性 [せんじょうせい] /linearity / linear order/
+線的順序 [せんてきじゅんじょ] /linear order/
+選言的に [せんげんてきに] /disjunctively/
+選択 [せんたく] /preference/
+選択の余地 [せんたくのよち] /???options/
+選択関数 [せんたくかんすう] /selector function/
+選択制約 [せんたくせいやく] /selectional restriction (Katz & Fodor)/
+選択性 [せんたくせい] /optionality/
+選択性の原則 [せんたくせいのげんそく] /Rule of Optionality/
+遷移 [せんい] /transition (in automata)/
+遷移作用素 [せんいさようそ] /transition operator/
+遷移木 [せんいき] /transition tree/
+前位 [ぜんい] /front position/
+前形容詞 [ぜんけいようし] /pre-central adjective/
+前決定詞 [ぜんけっていし] /predeterminer/
+前向きの推論 [まえむきのすいろん] /forward inferencing/
+前向き推論 [まえむきすいろん] /forward reasoning/
+前向き連鎖 [まえむきれんさ] /forward chaining/
+前項動詞 [ぜんこうどうし] /first verb/
+前修正 [ぜんしゅうせい] /pre-editing (MT)/
+前終端記号 [ぜんしゅうたんきごう] /preterminal/
+前処理 [ぜんしょり] /pre-processing/
+前置　 [ぜんち] /dislocated ???/
+前置する [ぜんちする] /front/
+前置詞 [ぜんちし] /preposition/
+前置詞が導く句 [ぜんちしがみちびくく] /prepositional phrase/
+前置詞句 [ぜんちしく] /prepositional phrase/
+前置詞形 [ぜんちしけい] /prepositional form/
+前提 [ぜんてい] /presupposition/
+前提句 [ぜんていく] /presuppositional phrase/
+前編集 [まえへんしゅう] /pre-editing (in MT)/
+前方指示 [ぜんぽうしじ] /anaphora/
+前方照応 [ぜんぽうしょうおう] /anaphora/
+漸近線 [ぜんきんせん] /asymptote/
+全称記号 [ぜんしょうきごう] /universal quantifier/
+全称限量子 [ぜんしょうげんりょうし] /universal quantifier (logic)/
+全称特殊化規則 [ぜんしょうとくしゅかきそく] /???universal specialization/
+全体 [ぜんたい] /total/
+全二重通信 [ぜんにじゅうつうしん] /full-duplex transmission/
+素 [そ] /primitive/
+素因数分解 [そいんすうぶんかい] /factorisation into prime numbers/
+素式 [そしき] /atomic formula/
+素性 [そせい] /feature/
+素性共起制限 [そせいきょうきせいげん] /FCR - Feature Co-occurrence Restrictions (PSG)/
+素性経路 [そせいけいろ] /path/
+素性構造 [そせいこうぞう] /feature structure/
+組合せ的爆発 [くみあわせてきばくはつ] /combinatorial explosion/
+組織名 [そしきめい] /the name of a organization/
+訴え [うったえ] /appeal/appealing/
+双曲線 [そうきょくせん] /(pair of) hyperbola/
+想像 [そうぞう] /image/imagine (vs)/
+挿入 [そうにゅう] /infix/insertion/
+挿入句 [そうにゅうく] /parenthetic expression/
+挿入的副詞 [そうにゅうてきふくし] /parenthetical adverbs/
+挿入動詞 [そうにゅうどうし] /parenthetical verbs/
+挿入文 [そうにゅうぶん] /parenthetical sentence/
+操作的 [そうさてき] /operational (semantics, etc)/
+相 [そう] /aspect/
+相関代名詞 [そうかんだいめいし] /correlative pronoun/
+相互代名詞 [そうごだいめいし] /reciprocal pronoun/
+相対敬語 [そうたいけいご] /qqq/
+相対的な順序 [そうたいてきなじゅんじょ] /relative order/
+相対的疑似補完 [そうたいてきぎじほかん] /relative pseudocomplement/
+相補性の原理 [そうほせいのげんり] /complementary principle (case grammar)/
+相補分布 [そうほぶんぷ] /complementary distribution/
+総主語 [そうしゅご] /qqq/
+総称 [そうしょう] /generic/
+総称的 [そうしょうてき] /generic/
+総称文 [そうしょうぶん] /generic sentence/
+送りがな [おくりがな] /a declensional kana ending/
+増加関数 [ぞうかかんすう] /increasing function/
+促音 [そくおん] /double consonant/mora phoneme/
+促音便 [そくおんびん] /sound change to double consonant/
+束 [そく] /lattice/
+束縛 [そくばく] /binding (in syntactic theory)/
+束縛される [そくぼくされる] /bound/
+束縛継承原理 [そくばくけいしょうげんり] /Binding Inheritance Principle/BIP/
+束縛照応形 [そくばくしょうおうけい] /bound anaphor/
+束縛素性 [そくぼくそせい] /feature binding/
+束縛素性の原理 [そくばくそせいのげんり] /binding feature principle (PSG)/
+束縛変数 [そくばくへんすう] /bound variable/
+束縛理論 [そくばくりろん] /binding theory (GB)/
+束理論 [そくりろん] /lattice/
+足素性原理 [そくそせいげんり] /Foot Feature Principle/FFP/
+属する [ぞくする] /belong (to set)/
+属格 [ぞくかく] /genitive/
+属性 [ぞくせい] /attribute/property/
+属性−値行列 [ぞくせい−ねぎょうれつ] /attribute-value matrices/AVM/
+属性の経路 [ぞくせいのけいろ] /path of attribute/
+属性を表す語 [ぞくせいをあらわすご] /words which represent attributes/
+存在帰結 [そんざいきけつ] /existential entailment/
+存在記号 [そんざいきごう] /existential quantifier/
+存在限量子 [そんざいげんりょうし] /existential quantifier (logic)/
+存在論的に必要な [そんざいろんてきにひつような] /ontologically necessary /
+尊敬語 [そんけいご] /honorific polite expression/honorific expression/
+損−得のスケール [そん−とくのスケール] /cost-benefit scale/
+他称 [たしょう] /third person (gram)/
+他動詞 [たどうし] /transitive verb/
+他動性体系 [たどうせいたいけい] /transitivity system/
+多価性 [たかせい] /polyvalency/
+多義語 [たぎご] /polysemy/
+多義性 [たぎせい] /polysemy/homonymy/
+多言語翻訳 [たげんごほんやく] /Multi-lingual Translation/
+多項式 [たこうしき] /polynomial/
+多次元シソーラス [たじげんシソーラス] /Multi-dimensional Thesaurus/
+多重エッジ [たじゅうエッジ] /???edge/
+多重化 [たじゅうか] /embedd (vs)/
+多段翻訳方式 [ただんほんやくほうしき] /Multi-Level Translation Method/
+多品詞語 [たひんしご] /homophone/
+妥協詞 [だきょうし] /compromizer/
+妥当 [だとう] /valid/
+妥当な推論 [だとうなすいろん] /plausable reasoning/
+打ち消し [うちけし] /cancellation/
+体 [たい] /substantive/
+体系 [たいけい] /(mathematical) system/
+体系文法 [たいけいぶんぽう] /systemic grammar/
+体言 [たいげん] /indeclinable parts of speech in Japanese grammar/the substantives/
+体言性の複合語 [たいげんせいのふくごうご] /indeclinable compound word/
+体積 [たいせき] /volume/
+対格 [たいかく] /qqq/
+対格名詞句 [たいかくめいしく] /accusative noun phrase/
+対弧文法 [たいこぶんぽう] /arc pair grammar/
+対行為者格 [たいこういしゃかく] /counter-agent/
+対照 [たいしょう] /contrast/
+対照格 [たいしょうかく] /object (case)/
+対照強制 [たいしょうきょうせい] /contrastive stress/
+対照言語学 [たいしょうげんごがく] /contrastive linguistics/comparative philology/
+対称 [たいしょう] /symmetry/
+対称詞 [たいしょうし] /qqq/
+対称的 [たいしょうてき] /symmetric/
+対象 [たいしょう] /object/
+対象概念 [たいしょうがいねん] /objective concept/
+対象格 [たいしょうかく] /object/
+対象語 [たいしょうご] /qqq/
+対象世界 [たいしょうせかい] /the objective world/
+対象認識 [たいしょうにんしき] /objective recognition/
+対人関係機能 [たいじんかんけいきのう] /interpersonal function/
+対人関係重視の原則 [たいじんかんけいじゅうしのげんそく] /the Principle of Politeness/
+対人的機能 [たいじんてききのう] /interpersonal function/
+対数 [たいすう] /logarithm/
+対比強調 [たいひきょうちょう] /qqq/
+対並列処理 [たいへいれつしょり] /parallel processing/
+対訳コーパス [たいやくこーぱす] /bilingual corpus (corpora)/
+対立の原理 [たいりつのげんり] /contrast principle (case grammar)/
+対話 [たいわ] /dialog/dialogue/
+対話機能 [たいわきのう] /qqq/
+対話対 [たいわたい] /qqq/
+待遇 [たいぐう] /qqq/
+待遇表現 [たいぐうひょうげん] /???politeness (humble, polite, honorific)/
+態 [たい] /voice/appearance/
+態格 [たいかく] /essive/
+態度的離接詞 [たいどてきりせつし] /attitudinal disjunct/
+態度表明型 [たいどひょうめいがた] /expressive/
+袋小路文 [ふくろこうじぶん] /garden path sentence/
+代数学 [だいすうがく] /algebra/
+代替案 [だいたいあん] /alternatives/
+代替物 [だいたいぶつ] /placeholder/
+代動詞 [だいどうし] /pro-verb/
+代入 [だいにゅう] /substitution/
+代入文 [だいにゅうぶん] /assignment statement/
+代名詞 [だいめいし] /pronoun/pronominal/
+代名詞類 [だいめいしるい] /pronomials (GB)/
+台本 [だいほん] /script/
+第n次導関数 [だいnじどうかんすう] /nth derivative/
+第一階述語論理 [だいいっかいじゅつごろんり] /first order predicate logic/
+第一助動詞 [だいいちじょどうし] /first auxiliary/
+第二目的語 [だいにもくてきご] /second object/
+題述 [だいじゅつ] /rheme/
+題目の助詞 [だいもくのじょし] /???topic particle/
+達成 [たっせい] /achievement/
+奪格 [だつかく] /ablative/
+脱他動詞化 [だつたどうしか] /detransitivization/
+脱動詞的 [だつどうしてき] /deverbal/
+棚上げ [たなあげ] /suspending/
+棚上げ可能 [たなあげかのう] /suspendable/
+単位観 [たんいかん] /concept of number/
+単位性 [たんいせい] /unit/
+単一化 [たんいつか] /unification/unify (vs)/
+単一化に基づく形式化 [たんいつかにもとづくけいしきか] /unification-based formalisms/
+単一化文法 [たんいつかぶんぽう] /unification grammar/
+単一文法 [たんいつぶんぽう] /unification grammar/
+単語 [たんご] /word/
+単語の文法属性 [たんごのぶんぷぞくせい] /word syntactic attribute/
+単語意味辞書 [たんごいみじしょ] /semantic word dictionary/
+単語意味属性体系 [たんごいみぞくせいたいけい] /semantic attribute system/
+単語共起辞書 [たんごきょうきじしょ] /word collocation dictionary/
+単語結合型辞書引き [たんごけつごうがたじしょびき] /combined word retrieval/
+単項 [たんこう] /unary/monadic/
+単項的 [たんこうてき] /monadic/
+単純過去 [たんじゅんかこ] /simple past/
+単純形副詞 [たんじゅんけいふくし] /flat adverb/
+単純現在 [たんじゅんげんざい] /simple present/
+単数 [たんすう] /singular/
+単調 [たんちょう] /monotonic/
+単調性 [たんちょうせい] /compositionality/monotonicity/
+単調増加関数 [たんちょうぞうかかんすう] /monotone increasing function/
+単文 [たんぶん] /simple sentence/unit sentence/
+嘆願 [たんがん] /pleading/plead (vs)/
+探あまり [あまり] /(arithmetic) remainder/
+探索 [たんさく] /searching/search (vs)/
+短期記憶 [たんききおく] /short-term memory/ST/
+短期記憶バッファ [たんききおくバッファ] /short-term memory buffer/
+短単位 [たんたんい] /Short Unit/
+短絡的含意 [たんらくてきがんい] /shortcircuited implicature/
+端末間対話 [たんまつかんたいわ] /inter-keyboard dialogue/
+断定 [だんてい] /assertion/
+断定述語 [だんていじゅつご] /assertive predicates/
+断定的述語 [だんていてきじゅつご] /assertive predicate/
+断片 [だんぺん] /fragment/
+男性 [だんせい] /masculine/
+談話 [だんわ] /discourse/
+談話のはじめの位置 [だんわのはじめのいち] /discourse initial position/
+談話の場所 [だんわのばしょ] /discourse location/
+談話機能 [だんわきのう] /discourse function/
+談話構造 [だんわこうぞう] /discourse structure/
+談話指示 [だんわしじ] /discourse reference/
+談話表示構造理論 [だんわひょうじこうぞうりろん] /discourse representation structure theory/DRS/
+談話表示理論 [だんわひょうじりろん] /discourse representation theory/DRT/
+談話文法 [だんわぶんぽう] /discourse grammar/
+値 [あたい] /value/
+値域 [ちいき] /range (in mapping)/
+知覚動詞 [ちかくどうし] /verbs of perception/
+知覚要素 [ちかくようそ] /perceptual primitive/
+知識 [ちしき] /knowledge/
+知識に基づくシステム [ちしきにもとづくシステム] /knowledge-based system/
+知識の手続き的表現 [ちしきのてつづきてきひょうげん] /procedural representation of knowledge/
+知識コンパイラ [ちしきコンパイラ] /knowledge compiler/
+知識ベース [ちしきベース] /knowledge base/
+知識ベース型の翻訳 [ちしきベースかたのほんやく] /knowledge-based translation/
+知識獲得 [ちしきかくとく] /knowledge acquisition/
+知識検索 [ちしきのけんさく] /knowledge retrieval/
+知識源 [ちしきげん] /source of knowledge/
+知識工学 [ちしきこうがく] /knowledge engineering/
+知識的な [ちしきてきな] /knowledgeable/
+知識表現 [ちしきひょうげん] /knowledge representation/
+知識表現範囲 [ちしきひょうげんはんい] /???scope/
+地名 [ちめい] /place name/the name of a place/
+置く [おく] /put (vs)/
+逐次処理 [ちくじしょり] /serial processing/
+逐次翻訳型の手続き [ちくじほんやくかたのてつづき] /???interpretative procedure/
+着点 [ちゃくてん] /goal/
+中位 [ちゅうい] /mid position/
+中核 [ちゅうかく] /nucleus/
+中核的音調 [ちゅうかくてきおんちょう] /nuclear tone/
+中間言語 [ちゅうかんげんご] /interlingua/pivot/
+中間言語方式 [ちゅうかんげんごほうしき] /interlingua method/
+中期記憶 [ちゅうかんきおく] /mediate-term memory/
+中止形 [ちゅうしけい] /qqq/
+中止性 [ちゅうしせい] /discontinuousness/
+中止法 [ちゅうしほう] /qqq/
+中称 [ちゅうしょう] /qqq/
+中心要素 [ちゅうしんようそ] /???head/
+中性 [ちゅうせい] /neuter/
+中立言語 [ちゅうりつげんご] /intermediate language (in MT)/
+忠告 [ちゅうこく] /advising/advice/advise (vs)/
+忠実性 [ちゅうじつせい] /faithfulness/
+抽出 [ちゅうしゅつ] /extract/
+抽象機械 [ちゅうしょうきかい] /virtual machine/
+抽象動詞 [ちゅうしょうどうし] /abstract verb/
+抽象名詞 [ちゅうしょうめいし] /abstract noun/
+注意の集中 [ちゅういのしゅうちゅう] /focus of attention/
+注目点の集中 [ちゅうもくてんのしゅうちゅう] /attention focusing/
+丁寧さ [ていねいさ] /politeness/
+丁寧語 [ていねいご] /neutral polite expression/polite expression/
+丁寧体 [ていねいたい] /qqq/
+弔慰 [ちょうい] /condoling/
+聴者 [ちょうしゃ] /hearer (linguistics)/
+調音 [ちょうおん] /long / prolonged sound/
+超規則 [ちょうきそく] /metarule/
+長期記憶 [ちょうききおく] /long-term memory/LT/
+長距離依存 [ちょうきょりいぞん] /long-distance dependencies/
+長単位 [ちょうたんい] /long unit/
+頂 [ちょう] /Top/
+頂点 [ちょうてん] /vertex (of curve)/
+直示的 [ちょくじてき] /deictic/
+直接型表現形式 [ちょくせつかたひょうげんけいしき] /direct representation/
+直接構成素 [ちょくせつこうせいそ] /direct constituent/
+直接支配 [ちょくせつしはい] /immediately dominate (vs)/
+直接支配規則 [ちょくせつしはいきそく] /immediate dominance schema/
+直接的照応 [ちょくせつてきしょうおう] /direct anaphora/
+直接翻訳 [ちょくせつほんやく] /direct (source->target language) translation/
+直接目的語 [ちょくせつもくてきご] /direct object/O$^d$/
+直接話法 [ちょくせつわほう] /direct speech/
+直説法 [ちょくせつほう] /indicative/
+直喩 [ちょくゆ] /simile/
+陳謝 [ちんしゃ] /apology/apologize (vs)/
+陳述 [ちんじゅつ] /statement/
+陳述辞 [ちんじゅつじ] /predictive words/
+陳述副詞 [ちんじゅつふくし] /declarative adverb/
+追加詞 [ついかし] /additive/
+通過点 [つうかてん] /route/
+通訳 [つうやく] /interpretation/interpret (vs)/
+通訳電話 [つうやくでんわ] /interpreting telephone/interpreting telephone system/
+低 [てい] /base (of exponential, logarithm)/
+定冠詞 [ていかんし] /definite article/
+定義 [ていぎ] /definition/
+定義域 [ていぎいき] /domain (in mapping)/
+定形動詞 [ていけいどうし] /finite verb/
+定式化 [ていしきか] /formalisation/
+定数 [ていすう] /constant/
+定積分 [ていせきぶん] /definite integral/
+定説 [ていせつ] /established theory/accepted view/
+定説を覆す [ていせつをくつがえす] /disprove/
+定名詞句 [ていめいしく] /definite noun phrase/
+定理 [ていり] /theorem/
+定理証明機 [ていりしょうめいき] /theorem prover/
+底 [てい] /Bottom/
+提案 [ていあん] /suggestion/
+提供 [ていきょう] /offer (vs)/
+提示の助詞 [ていじのじょし] /demonstrative marker/
+提喩 [ていゆ] /synecdoche/
+程度 [ていど] /degree/
+程度表示不可能な [ていどひょうじふかのうな] /non-gradable/
+程度副詞 [ていどふくし] /degree adverb/
+訂正可能性 [ていせいかのうせい] /corrigibility/
+適応型プロダクション・システム [てきおうがたプロダクション・システム] /adaptive production system/
+適格 [てきかく] /grammatical (sentence)/
+適格文 [てきかくぶん] /grammatical sentence/
+適合率 [てきごうりつ] /precision/relevance rate /relevance factor/
+適正に定義されている [てきせいにていぎされている] /well-formed/
+適切性 [てきせつせい] /appropriateness/
+適切性条件 [てきせつせいじょうけん] /felicity conditions/
+典型的 [てんけいてき] /prototypical/
+典型的な [てんけいてきな] /stereotyped/
+天文学的数字 [てんもんがくてきすうじ] /astronomical figure/
+展開する [てんかいする] /expand (polynomial)/
+展開活性化法 [てんかいかっせいかほう] /spread activation/
+伝達 [でんたつ] /propagation/
+伝達の様態動詞 [でんたつのようたいどうし] /manner-of-speaking verbs/
+伝播されて [でんぱんされて] /propagated/
+伝聞の表現 [でんぶんのひょうげん] /??? rumor expressions/
+電話対話 [でんわたいわ] /telephone dialogue/
+倒置 [とうち] /inversion/
+倒置節 [とうちせつ] /inverted clause/
+倒置文 [とうちぶん] /inverted sentence (inv - PSG)/
+島駆動 [しまくどう] /island driving/
+投影原理 [とうえいげんり] /Projection Principle/
+投射 [とうしゃ] /projection (GB)/
+投射規則 [とうしゃきそく] /Projection Rule/
+投射経路 [とうしゃけいろ] /projection path/
+投射原理 [とうしゃげんり] /projection principle (GB)/
+等位構成素 [とういこうせいそ] /conjunct/
+等位構造 [とういこうぞう] /coordinate structure/
+等位構造制約 [とういこうぞうせいやく] /Coordinate Structure Constraint/
+等価文 [とうかぶん] /equative sentence/
+等差数列 [とうさすうれつ] /arithmetic sequence/
+等式 [とうしき] /equation/
+等比数列 [とうひすうれつ] /geometric/
+統括する陳述辞 [とうかつするちんじゅつじ] /controlling predictive words/
+統御 [とうぎょ] /govern /control (syntax)/command/
+統語解析木 [とうごかいせきき] /parse tree/
+統語規則 [とうごきそく] /syntactic rule/grammatical rule/
+統語構造 [とうごこうぞう] /syntactic structure/
+統語指標 [とうごしひょう] /syntactic index/
+統語上の依存要素 [とうごじょうのいぞんようそ] /syntactic dependent/
+統語素性 [とうごそせい] /syntactic feature/
+統語的 [とうごてき] /syntactic/
+統語的な整合性 [とうごてきなせいごうせい] /well-formedness/
+統語的依存関係 [とうごてきいぞんかんけい] /syntactic dependency/
+統語的融合体 [とうごてきゆうごうたい] /syntactic amalgam/
+統語範疇 [とうごはんちゅう] /syntactic representation/syntactic category ???/
+統語部門 [とうごぶもん] /syntactic component/
+統語論 [とうごろん] /syntax/
+統語論的 [とうごろんてき] /syntactic/
+統合解析木 [とうごうかいせきき] /syntactic analysis tree/
+統制規則 [とうせいきそく] /regulative rules/
+統制統語解析 [とうせいとうごかいせき] /directed parsing/
+統率・束縛理論 [とういつ・そくばくりろん] /government-binding theory/GB/
+統率子 [とうりつし] /governor (in GB)/
+統率辞 [とうりつじ] /governer /
+統率理論 [とうそつりろん] /government theory (GB)/
+到達可能性 [とうたつかのうせい] /reachability/
+動作主 [どうさぬし] /actor/agent/subject of action/
+動作主格 [どうさぬしかく] /agent frame/
+動作主性 [どうさしゅせい] /agentivity/
+動作対象性 [どうさたいしょうせい] /themehood/
+動作動詞 [どうさどうし] /action verb/
+動詞 [どうし] /verb/
+動詞のセンス [どうしのセンス] /verb sense/
+動詞の一致 [どうしのいっち] /verb agreement/
+動詞の結合価 [どうしのけつごうか] /verb valency/
+動詞の分詞形 [どうしのぶんしけい] /gerund/
+動詞句 [どうしく] /verb phrase/VP/
+動詞型 [どうしがた] /verb pattern/
+動詞性の副詞句 [どうしせいのふくしく] /verbal adverbial phrase/
+動詞的前置 [どうしてきぜんち] /VP preposing/
+動的 [どうてき] /dynamic/
+動的属性 [どうてきぞくせい] /dynamic attribute/
+動的動詞 [どうてきどうし] /dynamic verb/
+動名詞 [どうめいし] /gerund/verbal noun/
+動名詞規則 [どうめいしきそく] /gerund rule/
+同位項 [どういこう] /sister (in tree)/
+同意の公理 [どういのこうり] /the maxim of Agreement/
+同一 [どういつ] /(linguistic) agreement/
+同一指示 [どういつしじ] /co-reference/
+同一指示的 [どういつしじてき] /coreferential/
+同一指標が付けられる [どういつしひょうがつけられる] /coindexed/
+同一指標付け [どういつしひょうつけ] /coindexing/
+同一性 [どういつせい] /identity/
+同一性の条件 [どういつせいのじょうけん] /identity conditions (anaphora)/
+同一性条件 [どういつせいじょうけん] /qqq/
+同一名詞句削除 [どういつめいしくさくじょ] /equi/
+同音意義 [どうおんいぎ] /homophone/
+同音意義語 [どうおんいぎご] /homophonous/
+同音反復 [どうおんはんぷく] /tautology/
+同格節 [どうかくせつ] /appositive clause/
+同型 [どうけい] /isomorphism/
+同語反復 [どうごはんぷく] /tautology/
+同情の公理 [どうじょうのこうり] /the maxim of Sympathy/
+同属目的語 [どうぞくもくてきご] /cognate object/
+同族言語 [どうぞくげんご] /the same linguistic family/
+同調する [どうちょうする] /attune/
+同等性の原則 [どうとうせいのげんそく] /Rule of Equality/
+導出 [どうしゅつ] /derivation/
+導出可能 [どうしゅつかのう] /derivable / deducible/
+導出原理 [どうしゅつげんり] /resolution method/resolution principle/
+導出木 [どうしゅつき] /derivation tree/
+道具 [どうぐ] /instrument/
+道具格 [どうぐかく] /instrument (case)/implement (case)/
+道具付接詞 [どうぐふせつし] /instrument adjunct/
+特殊化された会話の含意 [とくしゅかされたかいわのがんい] /particularized conversational implicature/
+特殊化詞 [とくしゅかし] /particularizer/
+特殊的個別性 [とくしゅてきこべつせい] /specific individuality/
+特性 [とくせい] /idiosyncrasy/
+特性の継承 [とくせいのけいしょう] /property inheritance/
+特性継承階層 [とくせいけいしょうかいそう] /property inheritance hierarchy/
+特性継承枝 [とくせいけいしょうし] /property inheritance link/
+特定の [とくていの] /specific/
+特定性 [とくていせい] /specificity/
+特定名詞句 [とくていめいしく] /definiteness/
+独立格 [どくりつかく] /absolutive/
+独立構文 [どくりつこうぶん] /absolutive construction/
+独立性 [どくりつせい] /independence/
+読点 [とうてん] /comma/
+内在的な再帰 [ないざいてきなさいき] /inherent reflexive/
+内在的前提 [ないざいてきぜんてい] /inherent presupposition/
+内的空所 [ないてきくうしょ] /internal gap/
+内部表現 [ないぶひょうげん] /internal expression/
+内包性 [ないほうせい] /intensionality/
+内包性動詞 [ないほうせいどうし] /inclusive verb/
+内包的 [ないほうてき] /connative/intensional/
+内容 [ないよう] /content/
+二項 [にこう] /binary/
+二項枝分かれ [にこうえだわかれ] /binary branching/
+二項的 [にこうてき] /dyadic/
+二次方程式 [にじほうていしき] /quadratic equation/
+二重主格構文 [にじゅうしゅかくこうぶん] /double-subject construction/sentence with two subjects/
+二重否定の表現 [にじゅうひていのひょうげん] /???double negation/
+二人称 [ににんしょう] /second person (grammar)/
+二分岐木 [にぶんきき] /binary tree/
+日英対照辞書 [にちえいたいしょうじしょ] /Japanese to English transfer dictionary/
+日本語教育 [にほんごきょういく] /Japanese language education/
+日本語表現要素体系 [にほんごひょうげんようそたいけい] /structure of Japanese expression elements/
+入れ子 [いれこ] /nest(ed)/embedded/
+入れ子型 [いれこかた] /embedded type/
+入れ子構造 [いれここうぞう] /embedded structure/
+任意 [にんい] /arbitrary/
+認可される [にんかされる] /licensed/
+認識 [にんしき] /recognition (vs)/cognizance/cognitive (an)/
+認識構造 [にんしきこうぞう] /recognition structure/
+認識的意味 [にんしきてきいみ] /epistemic meaning/
+認知化学 [にんちかがく] /cognitive science/
+認知構造 [にんちこうぞう] /cognitive structure/
+認容できる [にんようできる] /admissible/
+能相 [のうそう] /qqq/
+能動 [のうどう] /active (sentence)/
+能動詞 [のうどうし] /qqq/
+能動態 [のうどうたい] /active voice/
+能力 [のうりょく] /ability/
+把握 [はあく] /grasp/
+波及効果 [はきゅうこうか] /propagation effect/
+派生語 [はせいご] /a derivative (word)/
+派生体 [はせいたい] /entailment/
+破壊的な [はかいてきな] /destructive/
+排除詞 [はいじょし] /exclusive/
+背理法 [はいりほう] /proof by refutation/
+配列 [はいれつ] /array (in programming)/
+倍数 [ばいすう] /multiple (of base number)/
+漠然性 [ばくぜんせい] /vagueness/
+函数 [かんすう] /function/
+発火 [はっか] /fire/
+発見 [はっけん] /found/
+発語行為 [はつごこうい] /locutionary act/utterance act/
+発語内行為 [はつごないこうい] /illocutionary act/
+発語内的な力の指標 [はつごないてきなちからのしひょう] /illocutionary force indicating device/
+発語媒介行為 [はつごばいかいこうい] /perlocutionary act/
+発語媒介的な力 [はつごばいかいてきなちから] /perlocutionary force/
+発散する [はっさんする] /diverge/
+発想法 [はっそうほう] /conception/
+発話 [はつわ] /utterance/
+発話の区切り符号 [はつわのくぎりふごう] /utterance delimiter/
+発話の伝達内容 [はつわのでんたつないよう] /total content of an utterance/
+発話の同等性 [はつわのどうとうせい] /??utterence equivalence/
+発話の力 [はつわのちから] /illocutionary force/
+発話行為 [はつわこうい] /speech act/illocutionary act/
+発話行為の慣用句 [はつわこういのかんようく] /speech act idioms/
+判断文 [はんだんぶん] /qqq/
+半２重会話 [はんにじゅうかいわ] /half-duplex conversation/
+半２重対話 [はんにじゅうたいわ] /half-duplex dialogue/
+半２重通信 [はんにじゅうつうしん] /half-duplex transmission/
+半可算 [はんかさん] /semi-countable/
+半群 [はんぐん] /semi-group (maths)/
+半順序 [はんじゅんじょ] /partial order/
+半叙実述語 [はんじょじつしゅつご] /semi-factive predicates/
+半叙実的述語 [はんじょじつてきじゅつご] /semi-factive predicate/
+反射的 [はんしゃてき] /reflexive/
+反対語 [はんたいご] /antonym/
+反対称的 [はんたいしょうてき] /antisymmetric/
+反復される行為 [はんぷくされるこうい] /recurrent activity/
+反復の回避 [はんぷくのかいひ] /avoidance of repetition/
+反復継続相 [はんぷくけいぞくそう] /qqq/
+反復進行相 [はんぷくしんこうそう] /qqq/
+反予想性 [はんよそうせい] /counter-expectancy/
+反例外 [はんれいがい] /anti-exception/
+汎化と抽象化 [はんかとちゅうしょうか] /generalization and abstraction/
+汎語 [はんご] /generic word/
+範疇 [はんちゅう] /category/
+範疇記号 [はんちゅうきごう] /category symbol/
+範疇文法 [はんちゅうぶんぽう] /categorical grammar/
+否定 [ひてい] /negation/
+否定の表現 [ひていのひょうげん] /negative expression/
+否定疑問 [ひていぎもん] /negative question/interrogative-negative/
+否定形 [ひていけい] /negative form/
+否定形の作り方 [ひていけいのつくりかた] /formation of negative/
+否定辞繰り上げ [ひていじくりあげ] /negative raising/
+否定述語 [ひていじゅつご] /negative predicates/
+否定対極表現 [ひていたいきょくひょうげん] /negative polarity ex-pression/
+否定的 [ひていてき] /negative/
+否定福祉前置 [ひていふくしぜんち] /negative adverb preposing/
+否定文 [ひていぶん] /negative sentence/
+悲嘆 [ひかん] /deploring/deplore (vs)/lamenting/lament (vs)/
+比 [ひ] /ratio/
+比較 [ひかく] /comparison/
+比較の表現 [ひかくのひょうげん] /comparative expression/
+比較言語学 [ひかくげんごがく] /comparative linguistics/
+比較最小対 [ひかくさいしょうたい] /minimal pairs/
+比況の表現 [ひきょうのひょうげん] /qqq/
+比例する [ひれいする] /proportional/
+比喩 [ひゆ] /figure of speech/metaphor/simile/
+比喩の表現 [ひゆのひょうげん] /figurative expression/
+皮肉 [ひにく] /irony/
+被修飾語 [ひしゅうしょくご] /modified/
+非完結動詞 [ひかんけつどうし] /non-conclusive verb/
+非慣例的な含意 [ひかんれいてきながんい] /what is non-conventionally implicated/
+非局所的な [ひきょくしょてきな] /nonlocal/
+非決定的 [ひけっていてき] /nondeterministic/
+非現実性 [ひげんじつせい] /counterfactuality/
+非現実節 [ひげんじつせつ] /counter-factual/
+非言語的文脈 [ひげんごてきぶんみゃく] /pragmatic context/
+非三人称単数規則 [ひさんにんしょうたんすうきそく] /non-third-singular rule/
+非主要な [ひしゅような] /minor/
+非終端記号 [ひしゅうたんきごう] /non-terminal [node]/non terminal symbol/
+非循環的 [ひじゅんかんてき] /acyclic/
+非巡環性 [ひじゅんかんせい] /noncircularity/
+非叙実 [ひじょじつ] /non-factive/
+非叙実的述語 [ひじょじつてきじゅつご] /non-factive predicate/
+非常 [ひじょう] /crisis/abnormality/
+非進行 [ひしんこう] /non-progressive/
+非人称受動 [ひにんしょうじゅどう] /impersonal passive/
+非人称代名詞 [ひにんしょうだいめいし] /expletive pronoun/
+非制限関係節 [ひせいげんかんけいせつ] /non-restrictive relative clause/
+非単調性 [ひたんちょうせい] /nonmonotonicity/
+非単調論理 [ひたんちょうろんり] /non-monotonic logic/
+非断定的述語 [ひだんていてきじゅつご] /non-assertive predicate/
+非定形動詞 [ひていけいどうし] /non-finite verb/
+非定積分 [ひていせきぶん] /indefinite integral/
+非統制チャート法 [ひとうせいチャートほう] /undirected chart parsing/
+非動詞化 [ひどうしか] /deverbative/
+非同一化指示 [ひどういつかしじ] /disjoint reference/
+非同一指示 [ひどういつしじ] /disjoint reference/
+非同一指示規則 [ひどういつしじきそく] /non-coreference Rule/
+非同一指標が付けられる [ひどういつしひょうがつけられる] /contrainexed ???/
+非難 [ひなん] /reproach/
+非文 [ひぶん] /ungrammatical sentence/
+非有界依存 [ひゆうかいいぞん] /unbounded dependency/
+非両立 [ひりょうりつ] /incompatible/
+微分 [びぶん] /differentiation (calculus)/
+微分する [びぶんする] /to differentiate/
+微分子 [びぶんし] /molecule/
+微分方程式 [びぶんほうていしき] /differential equation/
+鼻音 [びおん] /nasal (phoneme)/
+鼻濁音 [びだくおん] /nasal consonant/
+必須格 [ひっすかく] /obligatory case/complement/
+必須変形 [ひっすへんけい] /obligatory transformation/
+必要 [ひつよう] /necessity/
+必要十分条件 [ひつようじゅうぶんじょうけん] /necessary and sufficient condition/
+標示 [ひょうじ] /label/
+標示付き括弧 [ひょうじつきかっこ] /labeled bracket/
+標準的な発話 [ひょうじゅんてきなはつわ] /canonical speech/
+標準理論 [ひょうじゅんりろん] /standard theory (generative grammar)/
+表記 [ひょうき] /denotation/representation ???/
+表記上の揺らぎ [ひょうきじょうのゆらぎ] /fluctuation of description/
+表現 [ひょうげん] /expression/representation/
+表現する [ひょうげんする] /represent/
+表現の構成規則 [ひょうげんのこうせいきそく] /rules for constructing expressions/
+表現意図 [ひょうげんいと] /qqq/
+表現階層 [ひょうげんかいそう] /hierarchy of expressions/
+表現主義 [ひょうげんしゅぎ] /representationalism/
+表現素 [ひょうげんそ] /expression element/
+表現範囲 [ひょうげんはんい] /scope of an expression/
+表現分類 [ひょうげんぶんるい] /classification of expressions/
+表示する [ひょうじする] /denote/
+表示値 [ひょうじち] /denotation/
+表示的 [ひょうじてき] /denotational (semantics, etc)/
+表層 [ひょうそう] /surface/
+表層の語順 [ひょうそうのごじゅん] /surface order/
+表層格 [ひょうそうかく] /surface case/
+表層構造 [ひょうそうこうぞう] /surface structure/
+表層主語 [ひょうそうしゅご] /surface subject/
+表層照応 [ひょうそうしょうおう] /surface anaphora/
+表明式 [ひょうめいしき] /expression (maths)/
+評価項目 [ひょうかこうもく] /evaluation criteria/
+評価的離接詞 [ひょうかてきりせつし] /evaluative disjunct/
+評言 [ひょうげん] /comment/
+描写 [びょうしゃ] /depiction/
+描写法 [びょうしゃほう] /depiction method/
+品詞 [ひんし] /part of speech/
+品詞構成論 [ひんしこうせいろん] /accidence/
+品詞性分類 [ひんしせいぶんるい] /syntactic category/
+品詞選択 [ひんしせんたく] /category selection/
+品詞素性 [ひんしそせい] /categorial feature/
+品詞体系 [にほんごひんしたいけい] /part of speech system/
+品詞分類 [ひんしぶんるい] /qqq/
+品詞変換 [ひんしへんかん] /change of part of speech/
+品詞論 [ひんしろん] /accidence/
+品質評価 [ひんしつひょうか] /quality evaluation/
+品種 [ひんしゅ] /breed/
+頻度 [ひんど] /frequency/
+頻度付接詞 [ひんどふせつし] /frequency adjunct/
+不安定性の制御 [ふあんていせいのせいぎょ] /control of instability/
+不可算 [ふかさん] /uncountable/
+不可算名詞 [ふかさんめいし] /uncountable noun/
+不確実性 [ふかくじつせい] /indeterminacy/
+不活性化 [ふかっせいか] /deactivation/
+不活性弧 [ふかっせいこ] /inactive edge/
+不完全先行詞 [ふかんぜんせんこうし] /sloppy identity / sloppy anaphora/
+不規則的に [ふきそくてきに] /irregularly/
+不在先行詞 [ふざいせんこうし] /missing antecedent/
+不整合 [ふせいごう] /inconsistency || inconformity/
+不誠実 [ふせいじつ] /insincere/
+不足密度 [ふそくみつど] /shortfall density/
+不定 [ふてい] /indefinite/
+不定の呼びかけ表現 [ふていのよびかけひょうげん] /indefinite vocative/
+不定冠詞 [ふていかんし] /an indefinite article/
+不定指示 [ふていしじ] /indefinite referring/
+不定詞 [ふていし] /infinitive (syntax)/
+不定詞構文 [ふていしこうぶん] /infinitive construction/
+不定詞補語 [ふていしほご] /infinitival complement/
+不定称 [ふていしょう] /indefinite/
+不定代名詞 [ふていだいめいし] /indefinite pronoun/
+不定動詞句 [ふていどうしく] /nonfinite verb phrase/
+不定名詞 [ふていめいし] /indefinite noun/
+不定命令文 [ふていめいれいぶん] /indefinite imperatives/
+不適格 [ふてきかく] /ungrammatical/
+不適切 [ふてきせつ] /infelicitous/
+不適切性 [ふてきせつせい] /infelicity/Infelicities/
+不等式 [ふとうしき] /inequality/
+不発 [ふはつ] /misfire/
+不変化詞 [ふへんかし] /particle/
+不変化詞移動 [ふへんかしいどう] /particle movement/
+不変式 [ふへんしき] /invariant/
+不飽和 [ふほうわ] /unsaturated/
+付加 [ふか] /adjunct/adjunction/procedural attachment/
+付加疑問 [ふかぎもん] /tag-question/
+付加疑問文 [ふかぎもんぶん] /tag question/
+付加語 [ふかご] /adjunct/
+付加語原理 [ふかごげんり] /Adjunct Principle/
+付加手続き [ふかてつづき] /attached procedure/
+付接詞 [ふせつし] /adjunct/
+付属句 [ふぞくく] /subordinate clause/
+付属形式 [ふぞくけいしき] /subordinate form/
+付属語 [ふぞくご] /ancillary words/
+付属節 [ふぞくせつ] /subordinate clause/
+付属的な語 [ふぞくてきなご] /subordinate word/
+普通体 [ふつうたい] /normal state/
+普通名詞 [ふつうめいし] /common noun/
+普遍原理 [ふへんげんり] /universal principle/
+普遍言語 [ふへんげんご] /universal language (Interlingua etc)/
+普遍文法 [ふへんぶんぽう] /universal grammar/
+符号数 [ふごうすう] /signature/
+符合 [ふごう] /sign (+/-)/
+部分 [ぶぶん] /partial/
+部分ネット [ぶぶんネット] /network fragment/
+部分関数 [ぶぶんかんすう] /partial function/
+部分言語 [ぶぶんげんご] /sub-language/
+部分集合 [ぶぶんしゅうごう] /subset/
+部分情報構造 [ぶぶんじょうほうこうぞう] /partial information structure/
+部分和 [ぶぶんわ] /partial sum/
+風呂敷型 [ふろしきがた] /a wrapping cloth type/
+副ゴール [ふくゴール] /subgoal/
+副詞 [ふくし] /adverb/
+副詞句 [ふくしく] /adverbial/
+副詞形 [ふくしけい] /adverbial form/
+副詞的語句 [ふくしてきごく] /adverbial/
+副詞的修飾語 [ふくしてきしゅうしょくご] /adverbial adjunct/
+副詞的小詞 [ふくしてきしょうし] /adverbial particle/
+副詞的要素 [ふくしてきようそ] /an adverbial phrase/
+副詞類 [ふくしるい] /adverbial/
+副次的条件 [ふくじてきじょうけん] /side condition/
+副助詞 [ふくじょし] /adverbial particle/adverbial marker/
+副文 [ふくぶん] /subordinate clause/
+副用言 [ふくようげん] /subordinating predicate/
+副用語 [ふくようご] /subordinating verb/
+復唱表現 [ふくしょうひょうげん] /repetition/
+複合語 [ふくごうご] /compound word/
+複合事態 [ふくごうじたい] /compound circumstance/
+複合述語 [ふくごうじゅつご] /compound predicate/
+複合助動詞 [ふくごうじょどうし] /compound auxiliary verb/
+複合動詞 [ふくごうどうし] /compound verb/
+複合名詞句の移動（規則） [ふくごうめいしくのいどう（きそく）] /Complex NP Shift/
+複合名詞句制約 [ふくごうめいしくせいやく] /complex NP constraint/
+複合名詞句転位 [ふくごうめいしくてんい] /complex NP shift/
+複数 [ふくすう] /plural/
+複素数 [ふくそすう] /complex (imaginary) number/
+複文 [ふくぶん] /complex sentence/
+覆す [くつがえす] /override/
+物語文法 [ものがたりぶんぽう] /story grammar/
+分かち書き [わかちがき] /word segmentation/write with segmentation markers between lexemes/
+分割する [ぶんかつする] /partition (vs)/
+分子 [ぶんし] /numerator/
+分詞 [ぶんし] /participle/
+分詞形容詞 [ぶんしけいようし] /participial adjective/
+分詞構文 [ぶんしこうぶん] /participial construction/
+分数 [ぶんすう] /fractional number/
+分析方法 [ぶんせきほうほう] /status/
+分節化 [ぶんせつか] /articulation (phonetics)/
+分配数量詞 [ぶんぱいすうりょうし] /distributional quantifier/
+分母 [ぶんぼ] /denominator/
+分離疑問 [ぶんりぎもん] /disjunctive question/
+分離指示規則 [ぶんりしじきそく] /Disjont Reference Rule/
+分離先行詞 [ぶんりせんこうし] /split antecedent/
+分離不可能 [ぶんりふかのう] /non-detachable/
+分離不可能性 [ぶんりふかのうせい] /non-detachability/
+分類辞 [ぶんるいじ] /classifier/
+分類体系 [ぶんるいたいけい] /a classification system/
+分類変化的な [ぶんるいへんかてきな] /sort-changing/
+分類保存的な [ぶんるいほぞんてきな] /sort-preserving/
+分類法 [ぶんるいほう] /taxonomy/
+分裂構文 [ぶんれつこうぶん] /cleft/
+分裂文 [ぶんれつぶん] /cleft sentence/
+文 [ぶん] /sentence (natural language)/closed formula (logic)/
+文−主語制約 [ぶん−しゅごせいやく] /sentential subject constraint/
+文−代名詞 [ぶん−だいめいし] /sentence-pronoun/S-pronoun/
+文の機能 [ぶんのきのう] /sentence function/
+文間依存 [ぶんかんいぞん] /inter-sentence dependency/
+文型 [ぶんけい] /clause type/sentence pattern/
+文型パターン [ぶんけいパターン] /phrase template/
+文型辞書 [ぶんがたじしょ] /sentence pattern dictionary/
+文構成上 [ぶんこうせいじょう] /in constructing sentence/
+文構造 [ぶんこうぞう] /syntax/
+文字通りの意味 [もじどおりのいみ] /literal meaning/
+文字通りの要求の陳述 [もじどおりのようきゅうのちんじゅつ] /literal statement of desire/
+文章 [ぶんしょう] /text/
+文章生成 [ぶんしょうせいせい] /text generation/
+文接続 [ぶんせつぞく] /sentence conjunction/
+文節 [ぶんせつ] /clause/phrase/bunsetsu/
+文体 [ぶんたい] /style/
+文体規則 [ぶんたいきそく] /stylistic rule/
+文体的倒置 [ぶんたいてきとうち] /stylistic inversion/
+文断片 [ぶんだんぺん] /sentence fragment/
+文定数 [ぶんていすう] /sentential constant/
+文頭 [ぶんとう] /sentence beginning/sentence initial position/
+文副詞 [ぶんふくし] /sentence adverb/
+文文法 [ぶんぶんぽう] /sentence grammar/
+文法 [ぶんぽう] /syntax/grammar/
+文法エディタ [ぶんぽうエディタ] /grammar editor/
+文法関係 [ぶんぽうかんけい] /grammatical relation/
+文法関係の斜格性 [ぶんぽうかんけいのじょかくせい] /obliqueness of grammatical relation/
+文法関係を変える [ぶんぽうかんけいをかえる] /relational changing/
+文法機能 [ぶんぽうきのう] /grammatical function/
+文法規則 [ぶんぽうきそく] /grammar rule/
+文法規則スキーマ [ぶんぽうきそくスキーマ] /rule schema/
+文法性 [ぶんぽうせい] /grammaticality/
+文法的 [ぶんぽうてき] /grammatical/
+文法的機能変化 [ぶんぽうてききのうへんか] /grammatical alteration of function/
+文法的接続関係 [ぶんぽうてきせつぞくかんけい] /syntactic conjunctive relation/
+文法的属性 [ぶんぽうてきぞくせい] /syntactic attribute/
+文法的特徴 [ぶんぽうてきとくちょう] /grammatical feature/
+文法的約束 [ぶんぽうてきやくそく] /syntax rule/
+文末 [ぶんまつ] /the end of a sentence/sentence final position/
+文脈 [ぶんみゃく] /context (linguistic)/
+文脈によって解釈可能にする [ぶんみゃくによってかいしゃくかのうにする] /contextualize/
+文脈依存文法 [ぶんみゃくいぞんぶんぽう] /CSG/context-sensitive grammar/
+文脈自由文法 [ぶんみゃくじゆうぶんぽう] /CFG/context-free grammar/
+文脈処理 [ぶんみゃくしょり] /context processing/context analysis/
+文脈照応 [ぶんみゃくしょうおう] /endophora/
+文脈知識 [ぶんみゃくちしき] /contextual knowledge/
+文脈木 [ぶんみゃくき] /context tree/
+文要素関係表現 [ぶんようそかんけいひょうげん] /relational expression for elements/
+文要素表現 [ぶんようそひょうげん] /sentence element expression/
+文類照応 [ぶんるいしょうおう] /clausal anaphora/
+文連結詞 [ぶんれんけつし] /sentential connectives/
+聞き手 [ききて] /addressee/hearer/
+聞き手の立場にもとずく [ききてのたちばにもとずく] /???hearer-based/
+平仮名 [ひらがな] /Hiragana/
+平均分岐数 [へいきんぶんきすう] /average branching factor/ABF/
+平叙疑問文 [へいじょぎもんぶん] /declarative question/
+平叙形式 [へいじょけいしき] /declarative form/
+平叙文 [へいじょぶん] /declarative sentence/declarative/
+並行型 [へいこうがた] /parallel (processing)/
+並行処理 [へいこうしょり] /parallel processing/
+並立関係 [へいりつかんけい] /qqq/
+並立語 [へいりつご] /qqq/
+並立助詞 [へいりつじょし] /parallel marker/
+並立文 [へいりつぶん] /qqq/
+並列 [へいれつ] /parallel/
+並列関係解析 [へいれつかんけいかいせき] /analysis of parallel structures/
+並列型 [へいれつがた] /parallel (computation)/
+並列処理 [へいれつしょり] /parallel processing/
+並列性 [へいれつせい] /parallelism/
+並列名詞句 [へいれつめいしく] /parallel noun phrase/
+閉世界仮説 [へいせかいかせつ] /closed world assumption/
+別指示 [べつしじ] /disjoint reference/
+変格活用 [へんかくかつよう] /qqq/
+変換 [へんかん] /transfer/
+変曲点 [へんきょくてん] /point of inflexion/
+変形 [へんけい] /transformation/transfrom (vs)/
+変形する [へんけいする] /transform/
+変形規則 [へんけいきそく] /transformational rule/
+変形生成統語論 [へんけいせいせいとうごろん] /transformational generative syntax/
+変形文法 [へんけいぶんぽう] /transformational grammar/
+変数 [へんすう] /variable/
+変則定形動詞 [へんそくていけいどうし] /anomalous finite/
+片仮名 [かたかな] /Katakana/
+弁別 [べんべつ] /discriminate (vs)/distinguish (vs)/
+弁別ネットワーク [べんべつネットワーク] /discrimination net/
+保護 [ほご] /preservation/
+補完型翻訳 [ほかんかたほんやく] /translation with supplementation/
+補語 [ほご] /complement (of syntactic head)/xcomp/
+補語化 [ほごか] /complementation/
+補語格 [ほごかく] /qqq/
+補語選択の特性 [ほごせんたくのとくせい] /selectional property/
+補集合 [ほしゅうごう] /set complement/
+補助形容詞 [ほじょけいようし] /qqq/
+補助形容動詞 [ほじょけいようどうし] /qqq/
+補助動詞 [ほじょどうし] /subsidiary verb/
+補助用言 [ほじょようげん] /qqq/
+補題 [ほだい] /lemma/
+補部 [ほぶ] /(syntactic) complement/
+補文 [ほぶん] /complement sentence/
+補文標識 [ほぶんひょうしき] /complementiser (Chomsky)/
+母音 [ぼいん] /vowel/
+包括過去 [ほうかつかこ] /inclusive past/
+包括現在 [ほうかつげんざい] /inclusive present/
+包括時 [ほうかつじ] /all-inclusive time/
+包括性 [ほうかつせい] /comprehensiveness/
+包括未来 [ほうかつみらい] /inclusive future/
+包含 [ほうがん] /imply/
+包含関係 [ほうがんかんけい] /inclusive relation/
+包摂 [ほうせつ] /subsumption/
+包摂する [ほうせつする] /subsume (vs)/subsumption/
+包摂関係 [ほうせつかんけい] /subsumption/
+報告 [ほうこく] /reporting/report (vs)/
+放出 [ほうしゅつ] /discharge/
+放物線 [ほうぶつせん] /parabola/
+方言 [ほうげん] /dialect/
+方向 [ほうこう] /direction/
+法 [ほう] /mood/modality/the mood/
+法構造 [ほうこうぞう] /modal stracture/
+法助動詞 [ほうじょどうし] /modal auxiliary/
+法性 [ほうせい] /modality/
+法体系 [ほうたいけい] /mood system/
+法的離接詞 [ほうてきりせつし] /modal disjunct/
+法動詞 [ほうどうし] /modal verb/
+飽和する [ほうわする] /saturate/
+本形容詞 [ほんけいようし] /central adjective/
+本質条件 [ほんしつじょうけん] /essential condition/
+本体 [ほんたい] /self/
+本動詞 [ほんどうし] /main verb/
+本来の位置にない [ほんらいのいちにない] /dislocated ???/
+翻訳 [ほんやく] /translation/
+翻訳メモリ [ほんやくメモリ] /translation memory/
+翻訳通信 [ほんやくつうしん] /Communication with translation/translation for communication/
+翻訳方式 [ほんやくほうしき] /translation method/
+埋め込み [うめこみ] /embedded/lower/
+埋め込み [うめこみ] /embedding/
+埋め込み疑問文 [うめこみぎもんぶん] /embedded question/constituent question/
+埋め込み表現 [うめこみひょうげん] /embedded expression/
+埋め込み文 [うめこみぶん] /embedded clause/embedded sentence/
+埋語 [まいご] /filler/
+又は [または] /(logical) OR/
+未完了 [みかんりょう] /imperfect/
+未然形 [みぜんけい] /first base/negative base/
+未来 [みらい] /future/
+未来完了 [みらいかんりょう] /future perfect/
+未来完了進行 [みらいかんりょうしんこう] /future perfect progressive/
+未来形 [みらいけい] /future tense/
+未来時 [みらいじ] /future time/
+未来時制 [みらいじせい] /future tense/
+未来進行 [みらいしんこう] /future progressive/
+無限 [むげん] /infinite/
+無限大 [むげんだい] /infinity/
+無効にできる [むこうにできる] /defeasible/
+無効化 [むこうか] /invalidate (vn)/
+無条件の約束 [むじょうけんのやくそく] /categorical promise/
+無生物 [むせいぶつ] /inanimate/
+無生物主語 [むせいぶつしゅご] /inanimate subject/
+無標 [むひょう] /unmarked/
+無標の [むひょうの] /unmarked/
+無矛盾性 [むむじゅんせい] /consistency/
+無理数 [むりすう] /irrational number/
+名札 [なふだ] /tag/
+名詞 [めいし] /noun/
+名詞化 [めいしか] /nominalization/
+名詞句 [めいしく] /noun phrase/NP/
+名詞句からの外置 [めいしくからのがいち] /extraposition from NP/
+名詞型 [めいしがた] /noun pattern/
+名詞述語 [めいしじゅつご] /copulative predicate/
+名詞述語文 [めいしじゅつごぶん] /qqq/
+名詞節化 [めいしせつか] /make (something) into a noun phrase/
+名詞的要素 [めいしてきようそ] /nominal element/
+名詞文 [めいしぶん] /nominal sentence/
+名詞類照応 [めいしるいしょうおう] /nominal anaphora/
+名前付きプラン [なまえつきプラン] /named plan/
+命題 [めいだい] /proposition (in logic)/
+命題行為 [めいだいこうい] /propositional act/
+命題内容 [めいだいないよう] /propositional content/
+命題内容条件 [めいだいないようじょうけん] /propositional content condition/
+命題文条件 [めいだいぶんじょうけん] /propositional island condition/
+命題論理 [めいだいろんり] /propositional calculus/propositional logic/
+命令 [めいれい] /imperative mood/order (vs)/command (vs)/
+命令の表現 [めいれいのひょうげん] /qqq/
+命令形 [めいれいけい] /sixth base/imperative base/
+命令文 [めいれいぶん] /imperative/imperative sentence/
+命令法 [めいれいほう] /imperative mood/
+明言的 [めいげんてき] /explicit/
+明示的な遂行表現 [めいじてきなすいこうひょうげん] /explicit performatives/
+明示的な発話 [めいじてきなはつわ] /explicit performatives/
+明示的遂行表現 [めいじてきすいこうひょうげん] /explicit performatives/
+明示的先行詞 [めいじてきせんこうし] /explicit antecedent/
+明瞭性重視の原則 [めいりょうせいじゅうしのげんそく] /Principle of Clarity/Rules of Clarity/
+迷路文 [めいろぶん] /garden path sentence/
+迷惑の意味 [めいわくのいみ] /meaning of adversity/ adverse effects/
+木 [き] /a (search etc) tree/
+木構造 [きこうぞう] /tree structure/
+木対木変換 [きたいきへんかん] /tree-to-tree transduce/Tree Transducer/
+目的 [もくてき] /purpose/object/
+目的の与格 [もくてきのよかく] /dative of purpose/
+目的格 [もくてきかく] /goal frame/
+目的駆動 [もくてきくどう] /goal driven/
+目的言語 [もくてきげんご] /target language/
+目的語 [もくてきご] /object/
+目的語繰り上げ [もくてきごくりあげ] /tough-movement/
+目的語削除 [もくてきごさくじょ] /object deletion/
+目的補語 [もくてきほご] /object complement/
+目標 [もくひょう] /goal/
+目標格 [もくひょうかく] /Goal/
+目標言語 [もくひょうげんご] /target language/
+問題空間 [もんだいくうかん] /problem space/
+問題分割 [もんだいぶんかつ] /problem reduction/
+問題領域に依存した [もんだいりょういきにいぞんした] /problem domain dependant/
+問題領域の知識 [もんだいりょういきのちしき] /domain-specific knowledge/
+役割 [やくわり] /role/
+役割の割り当て [やくわりのわりあて] /role assignment/
+約束 [やくそく] /promise (vs)/
+約分 [やくぶん] /reduce a fraction to its lowest terms/
+訳文品質 [やくぶんひんしつ] /translation quality/
+唯心論 [ゆいしんろん] /mentalism/
+優先 [ゆうせん] /preference/prefer (vs)/
+優先意味論 [ゆうせんいみろん] /preference semantics/
+優先度 [ゆうせんど] /preference/
+有界性 [ゆうかいせい] /boundedness/
+有限 [ゆうげん] /finite/
+有限状態オートマトン [ゆうげんじょうたいオートマトン] /finite-state automata/
+有限状態遷移 [ゆうげんじょうたいせんい] /finite-state transition/FST/
+有限状態文法 [ゆうげんじょうたいぶんぽう] /finite-state grammar/
+有限性 [ゆうげんせい] /finitude/
+有主辞構造 [ゆうしゅじこうぞう] /headed structure/
+有性 [ゆうせい] /animate/
+有生名詞 [ゆうせいめいし] /animate noun/
+有声音 [ゆうせいおん] /voiced (phoneme)/
+有題・無題の論 [ゆうだい・むだいのろん] /qqq/
+有標 [ゆうひょう] /marked/
+有標識的 [ゆうひょうしきてき] /marked/
+有標度 [ゆうひょうど] /markedness/
+有理数 [ゆうりすう] /rational number/
+誘引的推論 [ゆういんてきすいろん] /invited inference/
+誘惑 [ゆうわく] /invitation/
+予期 [よき] /expectation/
+予期により起動される処理 [よきによりきどうされるしょり] /expectation-driven processing/
+予期駆動 [よきくどう] /expectation driven/
+予期駆動型 [よきくどうかた] /???expectation-driven/
+予期駆動型の処理 [よきくどうかたのしょり] /expectation-driven processing/
+予期事項 [よきじこう] /expectation/
+予測 [よそく] /predicting (vs)/prediction/
+予定 [よてい] /arrangement/
+予備の [よびの] /introductory/preparatory/
+余剰的 [よじょうてき] /redundant/
+与格 [よかく] /dative/
+与格移動 [よかくいどう] /dative shift/
+容認可能性 [ようにんかのうせい] /acceptability (Chomskian)/
+容認性 [ようにんせい] /acceptability / grammatical acceptability/
+様相 [ようそう] /modality/
+様相演算子 [ようそうえんざんし] /modal operator/
+様相時制表現書き替え [ようそうじせいひょうげんかきかえ] /rewriting modal and tense expressions/
+様相論理 [ようそうろんり] /aspect/
+様態の公理 [ようたいのこうり] /the maxim of Manner/
+様態化 [ようたいか] /manner/
+様態付接詞 [ようたいふせつし] /manner adjunct/
+様態名詞 [ようたいめいし] /manner noun/
+用現意味属性 [ようげんいみぞくせい] /verbal semantic attribute/
+用言 [ようげん] /declinable word/
+用言と体言 [ようげんとたいげん] /declinable and indeclinable words/
+用言性の複合語 [ようげんせいのふくごうご] /declinable compound word/
+用語 [ようご] /term / word/
+用語行為 [ようごこうい] /phatic act/
+用例ベース翻訳 [ようれいべーすほんやく] /example-based translation/
+用例翻訳 [ようれいほんやく] /example-based translation/
+葉節点 [ようせつてん] /leaf node/
+要求 [ようきゅう] /request/
+要請 [ようせい] /demanding/
+要素 [ようそ] /element (of set)/
+要素構成 [ようそこうせい] /constituency/
+要素合成法の原理 [ようそごうせいほうのげんり] /Principle of Compositional Semantics/Principle of compositionality/
+要素属性 [ようそぞくせい] /primitive attribute/
+絡み合っている [からみあっている] /interleaved/
+落段 [だんらく] /paragraph/
+濫用 [らんよう] /abuse/
+利益の授受 [りえきのじゅじゅ] /transfer of profit/
+利用者辞書 [りようしゃじしょ] /user dictionary/
+理解 [りかい] /understanding/
+理解しやすいか [りかいしやすいか] /understandable/
+理解容易性 [りかいよういせい] /understandability/
+理解容易度 [りかいよういど] /understandability/
+理由 [りゆう] /reason/
+離散型共起表現 [りさんがたきょうきひょうげん] /interrupted collocation/
+離散的 [りさんてき] /distributive/
+離接詞 [りせつし] /disjunct/
+離接事態 [りせつじたい] /disjunctive circumstance/
+略式の同一性 [りゃくしきのどういつせい] /sloppy identification/
+粒度 [りゅうど] /granularity/
+量の公理 [りょうのこうり] /the maxim of Quantity/
+量化 [りょうか] /quantify (vs)/
+量化を受けている [りょうかをうけている] /quantified/
+量化詞 [りょうかし] /quantifier/
+量化詞のスコープ [りょうかしのスコープ] /quantifier scope/
+量化事態 [りょうかじたい] /quantificational circumstances/quantified circumstance/
+領域に関する知識 [りょういきにかんするちしき] /domain specific knowledge/
+領域付接詞 [りょういきふせつし] /domain adjunct/
+隣接条件 [りんせつじょうけん] /adjacency condition/
+隣接性 [りんせつせい] /contiguity/adjacency/
+隣接対 [りんせつたい] /adjacency pair/
+累乗 [るいじょう] /exponential/
+類 [るい] /sort/class/
+類義語 [るいぎご] /synonym/
+類語 [るいご] /synonym/
+類語弁別ネットワーク [るいごべんべつネットワーク] /word discrimination network/
+類推による推論 [るいすいによるすいろん] /reasoning by analogy/
+類別的 [るいべつてき] /sortal/
+例 [れい] /instance/sequence/
+連結詞 [れんけつし] /conjunctive/
+連結性 [れんけつせい] /connectivity/
+連語 [れんご] /compound word/multi-word expression/collocation/
+連語辞書 [れんごじしょ] /idiomatic affix dictionary (NTT)/
+連鎖型共起表現 [れんさがたきょうきひょうげん] /uninterrupted collocation/
+連声 [れんじょう] /sandhi/
+連接規則 [れんせつきそく] /juncture rule/
+連接事態 [れんせつじたい] /conjunctive circumstance/
+連想 [れんそう] /association/
+連続音声記号 [れんぞくおんせいきごう] /connected speech signal/
+連続関数 [れんぞくかんすう] /continuous function/
+連続体の無限 [れんたいのむげん] /incountably infinite/
+連体格 [れんたいかく] /genitive case/adnominal case/
+連体句 [れんたいく] /adnominal phrase/
+連体形 [れんたいけい] /fourth base/adnominal base/attributive base/
+連体詞 [れんたいし] /uninflected adjective/adnominal/attributive/
+連体修飾 [れんたいしゅうしょく] /adnominal form/restrictive modification/
+連体修飾語 [れんたいしゅうしょくご] /adnominal/
+連体修飾成分 [れんたいしゅうしょくせいぶん] /qqq/
+連体助詞 [れんたいじょし] /adnominal particle/adnominal marker/
+連体節 [れんたいせつ] /adnominal clause/
+連用形 [れんようけい] /second base/continuative base/continuous form/
+連用語 [れんようご] /qqq/
+連用修飾 [れんようしゅうしょく] /continuous modification/
+連用修飾語 [れんようしゅうしょくご] /qqq/
+連用述語 [れんようじゅつご] /continuative predicate/
+連用節 [れんようせつ] /continuous clause/
+連用節述語 [れんようせつじゅつご] /predicate of continuous clause/
+論理 [ろんり] /logic/
+論理プログラミング [ろんりプログラミング] /logic programming/
+論理演算子 [ろんりえんざんし] /logical operator/
+論理形式 [ろんりけいしき] /logical form (LF)/
+論理積 [ろんりせき] /conjunction/logical conjunction/
+論理定数 [ろんりていすう] /logic operators (and, or, not --- logic)/
+論理的含意 [ろんりてきがんい] /entailment/
+論理的帰結 [ろんりてききけつ] /logical consequence/
+論理和 [ろんりわ] /disjunction/
+論理和標準形 [ろんりわひょうじゅんけい] /disjunctive normal form /
+和 [わ] /sum/
+和語系の語 [わごけいのご] /words of Japanese origin/
+和集合 [わしゅうごう] /set union/
+話し言葉 [はなしことば] /speech/
+話し手の立場にもとづく [はなしてのたちばにもとづく] /speaker-based/
+話す [はなす] /tell (vs)/
+話者 [わしゃ] /speaker/
+話者指向 [わしゃしこう] /speaker-oriented/
+話題 [わだい] /topic/
+話題化 [わだいか] /topicalization/
+話法 [わほう] /narration/
+枠組み [わくぐみ] /framework/
+冪乗 [べきじょう] /exponential/
+婉曲語法 [えんきょくごほう] /euphemism/
+婉曲表現 [えんきょくひょうげん] /euphemism/
+恣意的 [しいてき] /abitrary/
+曖昧 [あいまい] /ambiguous (an)/
+曖昧さ [あいまいさ] /ambiguity/
+曖昧性 [あいまいせい] /ambiguity/
+膠着言語 [こうちゃくげんご] /agglutinative language/
+諷喩 [ふうゆ] /hint (vs)/insinuation/indirect suggestion/allegory/

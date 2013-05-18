@@ -11,15 +11,14 @@
 @implementation EJLookupAppDelegate
 
 
-@synthesize window=_window;
-
-@synthesize navigationController=_navigationController;
+@synthesize window = _window;
+@synthesize ejlViewController = _ejlViewController;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
     // Add the navigation controller's view to the window and display.
-    self.window.rootViewController = self.navigationController;
+    self.window.rootViewController = self.ejlViewController;
     [self.window makeKeyAndVisible];
     return YES;
 }
@@ -66,7 +65,7 @@
 - (void)dealloc
 {
     [_window release];
-    [_navigationController release];
+    [_ejlViewController release];
     [super dealloc];
 }
 

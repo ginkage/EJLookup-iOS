@@ -10,7 +10,13 @@
 
 
 @interface Nihongo : NSObject {
-    
 }
+
++ (void)initTables;
++ (void)freeTables;
++ (NSString *)romanateText:(unichar *)text from:(int)begin to:(int)end;
++ (NSString *)kanateText:(unichar *)text ofLength:(int)length;
++ (int)normalizeText:(unichar *)buffer ofLength:(int)length;
++ (bool)letter:(unichar)c;
 
 @end

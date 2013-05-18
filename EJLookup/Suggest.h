@@ -10,7 +10,11 @@
 
 
 @interface Suggest : NSOperation {
-    
 }
+
+@property(retain) id creator;
+@property(retain) NSString *query;
+
+- (id)initWithText:(NSString *)text delegate:(id)target;
 
 @end

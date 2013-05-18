@@ -10,7 +10,12 @@
 
 
 @interface ResultLine : NSObject {
-    
 }
+
+- (void)initWithText:(NSString *)text dictName:(NSString *)dict;
+
+@property (nonatomic, retain) NSAttributedString *data;
+@property (nonatomic, retain) NSString *group;
+@property (nonatomic, assign) int height;
 
 @end
